@@ -1,0 +1,2 @@
+# requirements.txt
+# No packages installed yet — dependencies will be added incrementally per phase.

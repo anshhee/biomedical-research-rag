@@ -1,0 +1,124 @@
+# =============================================================================
+# Python
+# =============================================================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+var/
+sdist/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-link
+MANIFEST
+
+# =============================================================================
+# Virtual Environments
+# =============================================================================
+.venv/
+venv/
+env/
+ENV/
+.env/
+Lib/
+
+# =============================================================================
+# Secrets & Environment Variables
+# =============================================================================
+.env
+.env.*
+*.env
+secrets.json
+secrets.yaml
+secrets.toml
+config/secrets/
+
+# =============================================================================
+# Jupyter / IPython
+# =============================================================================
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+profile_default/
+ipython_config.py
+
+# =============================================================================
+# IDE / Editor Files
+# =============================================================================
+# VSCode
+.vscode/
+*.code-workspace
+
+# PyCharm / JetBrains
+.idea/
+*.iml
+
+# Vim / Emacs
+*.swp
+*.swo
+*~
+\#*\#
+.\#*
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# =============================================================================
+# Databases & Vector Stores
+# =============================================================================
+*.db
+*.sqlite
+*.sqlite3
+chroma/
+chroma_db/
+vectorstore/
+vector_store/
+faiss_index/
+*.index
+*.pkl
+
+# =============================================================================
+# Cache Files
+# =============================================================================
+.cache/
+.mypy_cache/
+.pytest_cache/
+.ruff_cache/
+.hypothesis/
+*.pyc
+*.pyo
+*.pyd
+htmlcov/
+.coverage
+.coverage.*
+coverage.xml
+*.cover
+
+# =============================================================================
+# Logs & Temporary Files
+# =============================================================================
+*.log
+logs/
+tmp/
+temp/
+
+# =============================================================================
+# Data Files (raw ingested / large files)
+# =============================================================================
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
