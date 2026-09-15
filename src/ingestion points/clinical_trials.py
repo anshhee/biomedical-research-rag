@@ -1,3 +1,6 @@
+import json
+from pathlib import Path
+
 import requests
 
 
@@ -23,15 +26,7 @@ def extract_trial(study):
 
     return trial
 
-
-url = "https://clinicaltrials.gov/api/v2/studies"
-
-params = {
-    "query.cond": "prostate cancer",
-    "query.term": "radioligand"
-}
-
-#fetch trials 
+#fetching trails from the Clinical Trials API
 
 def fetch_trials(query_condition, query_term, max_trials=1000):
     url = "https://clinicaltrials.gov/api/v2/studies"
@@ -45,7 +40,6 @@ def fetch_trials(query_condition, query_term, max_trials=1000):
     all_trials = []
 
     while len(all_trials) < max_trials:
-
         response = requests.get(url, params=params)
         response.raise_for_status()
 
@@ -68,12 +62,63 @@ def fetch_trials(query_condition, query_term, max_trials=1000):
     return all_trials
 
 
+# Fetch trials
 trials = fetch_trials(
     query_condition="prostate cancer",
-     query_term="radioligand",
-     max_trials=1000
+    query_term="radioligand",
+    max_trials=1000,
 )
 
-print("Total trials collected:", len(trials))
-print("\nFirst trial:")
-print(trials[0])
+
+# Data quality check
+print("\n--- DATA QUALITY CHECK ---")
+
+fields = [
+    "nct_id",
+    "title",
+    "official_title",
+    "status",
+    "conditions",
+    "keywords",
+    "study_type",
+    "phase",
+    "enrollment",
+]
+
+for field in fields:
+    missing = sum(
+        1
+        for trial in trials
+        if not trial.get(field)
+    )
+
+    print(f"{field}: {missing} missing")
+
+
+# Duplicate check
+print("\n--- DUPLICATE CHECK ---")
+
+nct_ids = [trial["nct_id"] for trial in trials]
+unique_ids = set(nct_ids)
+
+print("Total trials:", len(nct_ids))
+print("Unique NCT IDs:", len(unique_ids))
+print("Duplicate trials:", len(nct_ids) - len(unique_ids))
+
+
+# Save trial data
+output_dir = Path("data/processed")
+output_dir.mkdir(exist_ok=True, parents=True)
+
+output_file = output_dir / "clinical_trials.json"
+
+with open(output_file, "w", encoding="utf-8") as f:
+    json.dump(
+        trials,
+        f,
+        indent=2,
+        ensure_ascii=False,
+    )
+
+print("\nTotal trials collected:", len(trials))
+print("Saved to:", output_file)
