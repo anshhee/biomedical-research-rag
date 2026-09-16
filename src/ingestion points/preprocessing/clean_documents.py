@@ -68,7 +68,7 @@ def paper_to_document(paper):
 
     return document
 
-
+# complete trial docs
 trial_documents = []
 
 for trial in clinical_trials:
@@ -76,13 +76,7 @@ for trial in clinical_trials:
     trial_documents.append(document)
 
 
-print("\n--- TRIAL DOCUMENTS ---")
-print("Total trial documents:", len(trial_documents))
-print("First trial document:")
-print(trial_documents[0])
-
-
-
+# complete paper documents 
 paper_documents = []
 
 for paper in europe_pmc_papers:
@@ -95,7 +89,7 @@ for paper in europe_pmc_papers:
 documents = trial_documents + paper_documents
 
 
-#doc cleaner 
+#doc cleaner func
 
 def clean_text(text):
     text = unescape(text)
@@ -103,7 +97,26 @@ def clean_text(text):
     text = re.sub(r"\s+", " ", text)
     return text.strip()
     
-cleaned_text = clean_text(documents[109]["text"])
 
-print("\n--- CLEANED TEXT ---")
-print(cleaned_text)
+
+# cleaning all the 1000+ docs 
+
+cleaned_documents = []
+
+for document in documents:
+    cleaned_document = document.copy()
+    cleaned_document["text"] = clean_text(document["text"])
+    cleaned_documents.append(cleaned_document)
+
+print("\n--- CLEANED DOCUMENTS ---")
+print("Total cleaned documents:", len(cleaned_documents))
+print("First cleaned document:")
+print(cleaned_documents[0])
+
+
+output_file = Path("data/processed/cleaned_documents.json")
+
+with open(output_file, "w", encoding="utf-8") as f:
+    json.dump(cleaned_documents, f, indent=2, ensure_ascii=False)
+
+print("Saved to:", output_file)
