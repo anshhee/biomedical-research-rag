@@ -1,37 +1,21 @@
-# =============================================================================
 # Python
-# =============================================================================
 __pycache__/
 *.py[cod]
-*$py.class
+*.pyd
 *.so
 *.egg
 *.egg-info/
 dist/
 build/
-eggs/
-parts/
-var/
-sdist/
-wheels/
-pip-wheel-metadata/
-share/python-wheels/
 *.egg-link
-MANIFEST
 
-# =============================================================================
-# Virtual Environments
-# =============================================================================
+# Virtual environments
 .venv/
 venv/
 env/
 ENV/
-.env/
-Lib/
 
-# =============================================================================
-# Secrets & Environment Variables
-# =============================================================================
+# Environment / secrets
 .env
 .env.*
 *.env
@@ -40,45 +24,15 @@ secrets.yaml
 secrets.toml
 config/secrets/
 
-# =============================================================================
-# Jupyter / IPython
-# =============================================================================
+# Jupyter
 .ipynb_checkpoints/
-*.ipynb_checkpoints
-profile_default/
-ipython_config.py
 
-# =============================================================================
-# IDE / Editor Files
-# =============================================================================
-# VSCode
+# IDEs
 .vscode/
-*.code-workspace
-
-# PyCharm / JetBrains
 .idea/
 *.iml
 
-# Vim / Emacs
-*.swp
-*.swo
-*~
-\#*\#
-.\#*
-
-# macOS
-.DS_Store
-.AppleDouble
-.LSOverride
-
-# Windows
-Thumbs.db
-ehthumbs.db
-Desktop.ini
-
-# =============================================================================
-# Databases & Vector Stores
-# =============================================================================
+# Databases / vector stores
 *.db
 *.sqlite
 *.sqlite3
@@ -90,9 +44,7 @@ faiss_index/
 *.index
 *.pkl
 
-# =============================================================================
-# Cache Files
-# =============================================================================
+# Cache
 .cache/
 .mypy_cache/
 .pytest_cache/
@@ -100,25 +52,23 @@ faiss_index/
 .hypothesis/
 *.pyc
 *.pyo
-*.pyd
 htmlcov/
 .coverage
 .coverage.*
 coverage.xml
-*.cover
 
-# =============================================================================
-# Logs & Temporary Files
-# =============================================================================
+# Logs / temporary files
 *.log
 logs/
 tmp/
 temp/
 
-# =============================================================================
-# Data Files (raw ingested / large files)
-# =============================================================================
+# Raw data
 data/raw/*
-data/processed/*
 !data/raw/.gitkeep
-!data/processed/.gitkeep
+
+# Generated embeddings
+data/processed/embeddings.npy
+
+# Local Chroma database
+data/chroma/

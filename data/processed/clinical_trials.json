@@ -1,0 +1,2356 @@
+[
+  {
+    "nct_id": "NCT06909825",
+    "title": "FPI-2265 (225Ac-PSMA-I&T) and Olaparib for Patients With Metastatic Castration-Resistant Prostate Cancer (mCRPC)",
+    "official_title": "A Phase 2, Open-label, Multi-centre Study of FPI-2265 (225Ac-PSMA-I&T) and Olaparib in Participants With Metastatic Castration Resistant Prostate Cancer (mCRPC)",
+    "status": "ACTIVE_NOT_RECRUITING",
+    "conditions": [
+      "Metastatic Castration-resistant Prostate Cancer"
+    ],
+    "keywords": [
+      "mCRPC",
+      "225Ac-PSMA-I&amp;T",
+      "RLT",
+      "Radioligand Therapy",
+      "FPI-2265",
+      "Olaparib",
+      "Radioconjugate"
+    ],
+    "study_type": "INTERVENTIONAL",
+    "phase": [
+      "PHASE2"
+    ],
+    "enrollment": 85
+  },
+  {
+    "nct_id": "NCT05398302",
+    "title": "Image-Guided Biopsies to Identify Mechanisms of Resistance in Patients With Metastatic Castration Resistant Prostate Cancer Treated With 177Lu-PSMA Radioligand Therapy",
+    "official_title": "Radiologically Guided Biopsies of Metastatic Castration Resistant Prostate Cancer to Identify Mechanisms of Resistance in Patients Undergoing 177Lu-PSMA Radioligand Therapy",
+    "status": "RECRUITING",
+    "conditions": [
+      "Castration-Resistant Prostate Carcinoma",
+      "Metastatic Prostate Carcinoma",
+      "Stage IV Prostate Cancer American Joint Committee on Cancer (AJCC) v8",
+      "Stage IVA Prostate Cancer AJCC v8",
+      "Stage IVB Prostate Cancer AJCC v8"
+    ],
+    "keywords": [],
+    "study_type": "INTERVENTIONAL",
+    "phase": [
+      "PHASE1"
+    ],
+    "enrollment": 30
+  },
+  {
+    "nct_id": "NCT03995888",
+    "title": "Assessing Radio-hybrid Prostate Specific Membrane Antigen (rhPSMA-7.3) (18F) in Healthy Volunteers and Subjects With Prostate Cancer",
+    "official_title": "A Phase 1, Open-label Study to Assess Safety, Biodistribution, and Internal Radiation Dosimetry of rhPSMA-7.3 (18F) Injection in Healthy Volunteers, and to Assess Safety and Investigate the Imaging Characteristics in Subjects With Prostate Cancer",
+    "status": "COMPLETED",
+    "conditions": [
+      "Prostate Cancer"
+    ],
+    "keywords": [],
+    "study_type": "INTERVENTIONAL",
+    "phase": [
+      "PHASE1"
+    ],
+    "enrollment": 24
+  },
+  {
+    "nct_id": "NCT06549465",
+    "title": "Study Evaluating Dosimetry, Randomized Dose Optimization, Dose Escalation and Efficacy of Ac-225 Rosopatamab Tetraxetan in Participants With PSMA PET-Positive Castration-Resistant Prostate Cancer (CRPC)",
+    "official_title": "A Phase 2, Open-label Study Evaluating Dosimetry, Randomized Dose Optimization, Dose Escalation and Efficacy of Ac-225 Rosopatamab Tetraxetan in Participants With PSMA PET-Positive Castration-Resistant Prostate Cancer",
+    "status": "RECRUITING",
+    "conditions": [
+      "PSMA PET-Positive Castration-Resistant Prostate Cancer"
+    ],
+    "keywords": [],
+    "study_type": "INTERVENTIONAL",
+    "phase": [
+      "PHASE2"
+    ],
+    "enrollment": 93
+  },
+  {
+    "nct_id": "NCT06383052",
+    "title": "A Phase 1/2 Study of 177Lu-NYM032 Injection in mCRPC",
+    "official_title": "A Phase 1/2 Study to Evaluate the Safety, Pharmacokinetics, Radiation Dosimetry and Efficacy of 177Lu-NYM032 Injection in Patients With PSMA-Positive Metastatic Castration-Resistant Prostate Cancer",
+    "status": "ACTIVE_NOT_RECRUITING",
+    "conditions": [
+      "Metastatic Castration-resistant Prostate Cancer"
+    ],
+    "keywords": [],
+    "study_type": "INTERVENTIONAL",
+    "phase": [
+      "PHASE1",
+      "PHASE2"
+    ],
+    "enrollment": 30
+  },
+  {
+    "nct_id": "NCT07590934",
+    "title": "Phase Ib/II Platform Study of Multiple Anti-Cancer Agents in Participants With Metastatic Prostate Cancer",
+    "official_title": "A Phase Ib/II, Open-label, Multi-centre, Platform Study to Assess the Safety, Tolerability, Pharmacokinetics, Pharmacodynamics, and Preliminary Efficacy of Multiple Anti-Cancer Agents in Metastatic Prostate Cancer",
+    "status": "RECRUITING",
+    "conditions": [
+      "Metastatic Prostate Cancer"
+    ],
+    "keywords": [
+      "Metastatic castration resistant prostate cancer",
+      "Prostate-specific membrane antigen-targeted radioligand therapy",
+      "Alpha particle therapy",
+      "Poly ADP-ribose polymerase 1 (PARP1) inhibitor therapy",
+      "Combination therapy",
+      "Docetaxel therapy"
+    ],
+    "study_type": "INTERVENTIONAL",
+    "phase": [
+      "PHASE1",
+      "PHASE2"
+    ],
+    "enrollment": 152
+  },
+  {
+    "nct_id": "NCT07567521",
+    "title": "A Study of TRC003 in the Treatment of Patients With Progressive PSMA-positive mCRPC",
+    "official_title": "A Prospective, Open-label, Randomized, Phase 1/2 Study of TRC003 in the Treatment of Patients With Progressive PSMA-positive Metastatic Castration-resistant Prostate Cancer (mCRPC)",
+    "status": "RECRUITING",
+    "conditions": [
+      "Prostate Cancer"
+    ],
+    "keywords": [
+      "Radiopharmaceutical Therapy",
+      "prostate cancer",
+      "Prostate Specific Membrane Antigen"
+    ],
+    "study_type": "INTERVENTIONAL",
+    "phase": [
+      "PHASE1",
+      "PHASE2"
+    ],
+    "enrollment": 90
+  },
+  {
+    "nct_id": "NCT06879041",
+    "title": "A Phase I Study of [225Ac]-AZD2284 in Patients With Metastatic Castration-Resistant Prostate Cancer",
+    "official_title": "A Phase I, First-in-human, Dose Escalation Study Of [225Ac]-AZD2284 in Patients With Metastatic Castration-Resistant Prostate Cancer",
+    "status": "RECRUITING",
+    "conditions": [
+      "Metastatic Castration-Resistant Prostate Cancer"
+    ],
+    "keywords": [
+      "Dose Escalation Study",
+      "Metastatic Prostate Cancer",
+      "Radiopharmaceutical",
+      "Radiotheranostics",
+      "Castration-Resistant Prostate Cancer",
+      "Radiotherapy",
+      "Six Transmembrane Epithelial Antigen of the Prostate 2 (STEAP2)",
+      "Actinium",
+      "Radioconjugate",
+      "Radioligand"
+    ],
+    "study_type": "INTERVENTIONAL",
+    "phase": [
+      "PHASE1"
+    ],
+    "enrollment": 136
+  },
+  {
+    "nct_id": "NCT04597411",
+    "title": "Study of 225Ac-PSMA-617 in Men With PSMA-positive Prostate Cancer",
+    "official_title": "AcTION: A Phase I Study of [225Ac]Ac-PSMA-617 in Men With PSMA-positive Prostate Cancer With or Without Prior [177Lu]Lu-PSMA-617 Radioligand Therapy",
+    "status": "ACTIVE_NOT_RECRUITING",
+    "conditions": [
+      "Prostatic Neoplasms, Castration-Resistant"
+    ],
+    "keywords": [
+      "Androgen-Resistant Prostatic Neoplasms",
+      "Castration-Resistant Prostatic Cancer",
+      "Castration-Resistant Prostatic Neoplasms",
+      "Prostatic Cancer, Castration-Resistant",
+      "Prostatic Neoplasms",
+      "Genital Neoplasms, Male",
+      "Urogenital Neoplasms",
+      "Neoplasms by Site",
+      "Neoplasms",
+      "Genital Diseases, Male",
+      "Prostatic Diseases",
+      "[225Ac]Ac-PSMA-617",
+      "225Ac-PSMA-617",
+      "[68Ga]Ga-PSMA-11",
+      "68Ga-PSMA-11",
+      "[177Lu]Lu-PSMA-617",
+      "177Lu-PSMA-617",
+      "[177Lu]Lu-PSMA I&T",
+      "177Lu-PSMA I&T"
+    ],
+    "study_type": "INTERVENTIONAL",
+    "phase": [
+      "PHASE1"
+    ],
+    "enrollment": 101
+  },
+  {
+    "nct_id": "NCT04188587",
+    "title": "177Lu-PSMA-I＆T PSMA Radioligand Therapy in Metastatic Castration-Resistant Prostate Cancer",
+    "official_title": "177Lu-PSMA-I＆T PSMA Radioligand Therapy in Metastatic Castration-Resistant Prostate Cancer",
+    "status": "UNKNOWN",
+    "conditions": [
+      "Metastatic Castration-resistant Prostate Cancer"
+    ],
+    "keywords": [
+      "177Lu-PSMA-I&T",
+      "Prostate cancer"
+    ],
+    "study_type": "INTERVENTIONAL",
+    "phase": [
+      "PHASE2"
+    ],
+    "enrollment": 30
+  },
+  {
+    "nct_id": "NCT04976257",
+    "title": "Pharmacokinetics of IA and IV Ga68-PSMA-11 Infusion",
+    "official_title": "Pharmacokinetic Comparison of Selective Prostatic Arterial and Intravenous PSMA Radioligand Infusions in Treatment-Naïve Prostate Cancer Patients",
+    "status": "COMPLETED",
+    "conditions": [
+      "Prostate Adenocarcinoma",
+      "Prostate Carcinoma",
+      "Stage IIC Prostate Cancer AJCC v8",
+      "Stage III Prostate Cancer AJCC v8",
+      "Stage IIIA Prostate Cancer AJCC v8",
+      "Stage IIIB Prostate Cancer AJCC v8",
+      "Stage IIIC Prostate Cancer AJCC v8",
+      "Stage IV Prostate Cancer AJCC v8",
+      "Stage IVA Prostate Cancer AJCC v8",
+      "Stage IVB Prostate Cancer AJCC v8"
+    ],
+    "keywords": [
+      "Ga68-PSMA-11"
+    ],
+    "study_type": "INTERVENTIONAL",
+    "phase": [
+      "EARLY_PHASE1"
+    ],
+    "enrollment": 5
+  },
+  {
+    "nct_id": "NCT04838613",
+    "title": "Study of Diagnostic Performance of [18F]CTT1057 in BCR",
+    "official_title": "Phase III Study for Evaluation of the Diagnostic Performance of [18F]CTT1057 PET Imaging in Patients With Prostate Cancer With Rising PSA Levels [Biochemical Recurrence (BCR)]",
+    "status": "COMPLETED",
+    "conditions": [
+      "Prostatic Neoplasms",
+      "Prostate Cancer",
+      "Recurrence"
+    ],
+    "keywords": [
+      "[18F]CTT1057",
+      "[68Ga]Ga-PSMA-11",
+      "Positron Emission Tomography/Computerized Tomography",
+      "PET/CT",
+      "Radioligand",
+      "Imaging",
+      "Biochemical recurrence",
+      "BCR",
+      "Composite Truth Standard",
+      "CTS",
+      "Prostate Cancer",
+      "PCa"
+    ],
+    "study_type": "INTERVENTIONAL",
+    "phase": [
+      "PHASE3"
+    ],
+    "enrollment": 190
+  },
+  {
+    "nct_id": "NCT07054346",
+    "title": "Comparison of 177Lu-PSMA-617 and 225Ac-PSMA-617",
+    "official_title": "Comparison of 177Lu-PSMA-617 and 225Ac-PSMA-617 in a Prostatectomy Model (LUTACT Trial)",
+    "status": "RECRUITING",
+    "conditions": [
+      "Prostate Cancer",
+      "Prostate Cancer (Diagnosis)",
+      "High-risk Prostate Cancer",
+      "Localized Prostate Carcinoma",
+      "Very High Risk Prostate Carcinoma"
+    ],
+    "keywords": [
+      "Radioligand Therapy"
+    ],
+    "study_type": "INTERVENTIONAL",
+    "phase": [
+      "PHASE1"
+    ],
+    "enrollment": 45
+  },
+  {
+    "nct_id": "NCT06259123",
+    "title": "Neoadjuvant PSMA-RLT in Oligometastatic PCa",
+    "official_title": "Neoadjuvant [177Lu]Lu-PSMAI&T Radioligand Therapy (PSMA-RLT) for Patients With Oligometastatic Prostate Cancer Diagnosed Using [68Ga]Ga-PSMA-11 PET Imaging Followed by Radical Prostatectomy: A Prospective Phase II Pilot Study",
+    "status": "RECRUITING",
+    "conditions": [
+      "Prostate Cancer"
+    ],
+    "keywords": [
+      "[177Lu]Lu-PSMAI&T",
+      "Oligometastatic prostate cancer",
+      "Radical prostatectomy",
+      "Therapy toxicity"
+    ],
+    "study_type": "INTERVENTIONAL",
+    "phase": [
+      "PHASE2"
+    ],
+    "enrollment": 10
+  },
+  {
+    "nct_id": "NCT05914116",
+    "title": "A Phase 1/2a Study of DB-1311/BNT324 in Advanced/Metastatic Solid Tumors",
+    "official_title": "A Phase 1/2a, Multicenter, Open-Label, First in Human Study to Assess the Safety, Tolerability, Pharmacokinetics, and Preliminary Antitumor Activity of DB-1311 in Subjects With Advanced/Metastatic Solid Tumors",
+    "status": "RECRUITING",
+    "conditions": [
+      "Advanced Solid Tumors"
+    ],
+    "keywords": [
+      "B7-H3",
+      "SCLC (small cell lung cancer)",
+      "NSCLC (non-small cell lung cancer)",
+      "ESCC (esophageal squamous cell carcinoma)",
+      "CRPC (castration-resistant prostate cancer)",
+      "Melanoma",
+      "HCC (Hepatocellular Carcinoma)",
+      "HNSCC (Head and neck squamous cell carcinomas)",
+      "CC (Cervical Cancer)",
+      "PROC (platinum-resistant ovarian cancer)",
+      "PC (prostate cancer)",
+      "CSPC (castration-sensitive prostate cancer)"
+    ],
+    "study_type": "INTERVENTIONAL",
+    "phase": [
+      "PHASE1",
+      "PHASE2"
+    ],
+    "enrollment": 862
+  },
+  {
+    "nct_id": "NCT06517719",
+    "title": "Real-world Experience With Lutetium Vipivotide Tetraxetan in Metastatic Castration Resistant Prostate Cancer",
+    "official_title": "Real-world Experience With Lutetium (177Lu) Vipivotide Tetraxetan in Metastatic Castration Resistant Prostate Cancer, an Observational, Multicenter, Prospective Cohort Study",
+    "status": "RECRUITING",
+    "conditions": [
+      "Metastatic Castration Resistant Prostate Cancer"
+    ],
+    "keywords": [
+      "metastatic castration resistant prostate cancer",
+      "mCRPC",
+      "Prostate cancer",
+      "lutetium vipivotide tetraxetan",
+      "177Lu"
+    ],
+    "study_type": "OBSERVATIONAL",
+    "phase": [],
+    "enrollment": 500
+  },
+  {
+    "nct_id": "NCT04838626",
+    "title": "Study of Diagnostic Performance of [18F]CTT1057 for PSMA-positive Tumors Detection",
+    "official_title": "Phase II/III Study for Evaluation of the Diagnostic Performance of [18F]CTT1057 PET Imaging for the Detection of PSMA Positive Tumors Using Histopathology as a Standard of Truth",
+    "status": "COMPLETED",
+    "conditions": [
+      "Prostatic Neoplasms",
+      "Prostate Cancer"
+    ],
+    "keywords": [
+      "[18F]CTT1057",
+      "Positron Emission Tomography/Computerized Tomography",
+      "PET/CT",
+      "Radioligand",
+      "Imaging",
+      "Primary Staging",
+      "PS",
+      "Standard of Truth",
+      "SoT",
+      "Prostate Cancer",
+      "PCa"
+    ],
+    "study_type": "INTERVENTIONAL",
+    "phase": [
+      "PHASE2",
+      "PHASE3"
+    ],
+    "enrollment": 195
+  },
+  {
+    "nct_id": "NCT07621692",
+    "title": "Exploring Auger-Enhanced PSMA-Targeted Radioligand Therapy: A First-in-Taiwan Clinical Study of 161Tb-PSMA-I&T",
+    "official_title": "Exploring Auger-Enhanced PSMA-Targeted Radioligand Therapy: A First-in-Taiwan Clinical Study of 161Tb-PSMA-I&T in Patients With Metastatic Castration-Resistant Prostate Cancer",
+    "status": "RECRUITING",
+    "conditions": [
+      "Metastatic Castration Resistant Prostate Cancer (mCRPC)"
+    ],
+    "keywords": [
+      "Radioligand therapy",
+      "Terbium-161",
+      "Prostate-specific Membrane Antigen (PSMA)",
+      "Metastatic Castration Resistant Prostate Cancer (mCRPC)"
+    ],
+    "study_type": "INTERVENTIONAL",
+    "phase": [
+      "PHASE1"
+    ],
+    "enrollment": 12
+  },
+  {
+    "nct_id": "NCT07370597",
+    "title": "LUtetium-177 DOsimetry as a Predictive Biomarker of Response in Metastatic Prostate Cancer Patients Treated With PSMA Radioligand THerapy.",
+    "official_title": "LUtetium-177 DOsimetry as a Predictive Biomarker of Response in Metastatic Prostate Cancer Patients Treated With PSMA Radioligand THerapy.",
+    "status": "RECRUITING",
+    "conditions": [
+      "Prostate Cancer (Adenocarcinoma)"
+    ],
+    "keywords": [],
+    "study_type": "OBSERVATIONAL",
+    "phase": [],
+    "enrollment": 110
+  },
+  {
+    "nct_id": "NCT06343038",
+    "title": "Targeted Radionuclide Therapy in Metastatic Prostate Cancer Using a New PSMA Ligand Radiolabelled With Terbium-161 (161Tb-SibuDAB) - Dose Identification/Escalation Phase Ia/b Study",
+    "official_title": "Targeted Radionuclide Therapy in Metastatic Prostate Cancer Using a New PSMA Ligand Radiolabelled With Terbium-161 (161Tb-SibuDAB) - Dose Identification/Escalation Phase Ia/b Study",
+    "status": "RECRUITING",
+    "conditions": [
+      "Castration-resistant Prostate Cancer"
+    ],
+    "keywords": [
+      "Radioligand Therapy",
+      "Phase Ia/Ib",
+      "Circulating Tumour Cells",
+      "Biomarkers Development",
+      "Voxel-based 3D Dosimetry"
+    ],
+    "study_type": "INTERVENTIONAL",
+    "phase": [
+      "PHASE1"
+    ],
+    "enrollment": 25
+  },
+  {
+    "nct_id": "NCT05435495",
+    "title": "Mechanisms of Resistance to PSMA Radioligand Therapy",
+    "official_title": "Mechanisms of Resistance to PSMA Radioligand Therapy: Radiation Resistance Versus Dose",
+    "status": "RECRUITING",
+    "conditions": [
+      "Prostate Cancer"
+    ],
+    "keywords": [
+      "Radioligand Therapy"
+    ],
+    "study_type": "OBSERVATIONAL",
+    "phase": [],
+    "enrollment": 125
+  },
+  {
+    "nct_id": "NCT04996602",
+    "title": "Therapeutic Efficiency and Response to 2.0 GBq (55mCi) 177Lu-EB-PSMA in Patients With mCRPC",
+    "official_title": "Therapeutic Efficiency and Response to 2.0 GBq (55mCi) 177Lu-EB-PSMA in Patients With mCRPC",
+    "status": "UNKNOWN",
+    "conditions": [
+      "Prostate Cancer"
+    ],
+    "keywords": [],
+    "study_type": "INTERVENTIONAL",
+    "phase": [
+      "EARLY_PHASE1"
+    ],
+    "enrollment": 30
+  },
+  {
+    "nct_id": "NCT06402331",
+    "title": "FPI-2265 (225Ac-PSMA-I&T) for Patients With PSMA-Positive Metastatic Castration-Resistant Prostate Cancer (mCRPC)",
+    "official_title": "A Phase 2, Randomized, Open-Label, Multicenter Study to Evaluate the Safety and Efficacy of FPI-2265 (225Ac-PSMA-I&T) in Patients With PSMA-Positive Metastatic Castration-Resistant Prostate Cancer (mCRPC)",
+    "status": "ACTIVE_NOT_RECRUITING",
+    "conditions": [
+      "Metastatic Castration-resistant Prostate Cancer"
+    ],
+    "keywords": [
+      "mCRPC",
+      "225Ac-PSMA-I&T",
+      "Radioligand therapy"
+    ],
+    "study_type": "INTERVENTIONAL",
+    "phase": [
+      "PHASE2"
+    ],
+    "enrollment": 110
+  },
+  {
+    "nct_id": "NCT06220188",
+    "title": "PSMA-RLT in Biochemically Recurrent PCa",
+    "official_title": "[177Lu]Lu-PSMAI&T Radioligand Therapy (PSMA-RLT) for Patients With Prostate Cancer and Biochemical But Not Radio-morphological Local Recurrence After Primary Therapy With Curative Intent: A Prospective Phase II Pilot Study",
+    "status": "RECRUITING",
+    "conditions": [
+      "Prostate Cancer Recurrent"
+    ],
+    "keywords": [
+      "[177Lu]Lu-PSMA I&T",
+      "PSMA-radioligand therapy",
+      "Biochemical recurrence",
+      "Prostate cancer",
+      "PSA value"
+    ],
+    "study_type": "INTERVENTIONAL",
+    "phase": [
+      "PHASE2"
+    ],
+    "enrollment": 20
+  },
+  {
+    "nct_id": "NCT06388369",
+    "title": "Neoadjuvant Lu-PSMA Radioligand Therapy and Ipilimumab in Men With Very High-risk Prostate Cancer",
+    "official_title": "A Randomized Phase I/II Study of Neoadjuvant Treatment With 177-Lutetium- PSMA-617 With or Without Ipilimumab in Subjects With Very High-risk Prostate Cancer Who Are Candidates for Radical Prostatectomy (NEPI Trial)",
+    "status": "TERMINATED",
+    "conditions": [
+      "Very High Risk Prostate Carcinoma"
+    ],
+    "keywords": [],
+    "study_type": "INTERVENTIONAL",
+    "phase": [
+      "PHASE1",
+      "PHASE2"
+    ],
+    "enrollment": 1
+  },
+  {
+    "nct_id": "NCT06720532",
+    "title": "Kidney Function and Risk Factors in Patients with Metastatic Castration-Resistant Prostate Cancer (mCRPC) Undergoing 177Lutetium-PSMA Radioligand Therapy: a Prospective Observational Study - KiRi-Trial",
+    "official_title": "177Lu-PSMA-KiRi-trial",
+    "status": "RECRUITING",
+    "conditions": [
+      "Kidney Disease",
+      "Radiation Nephropathy",
+      "Metastatic Castrate Resistant Prostate Cancer (mCRPC)"
+    ],
+    "keywords": [
+      "mCRPC",
+      "177Lutetium",
+      "177Lu-PSMA",
+      "radioligand therapy"
+    ],
+    "study_type": "OBSERVATIONAL",
+    "phase": [],
+    "enrollment": 100
+  },
+  {
+    "nct_id": "NCT04833517",
+    "title": "Prospective REgistry of Targeted RadionucLide TherapY in Patients With mCRPC (REALITY Study)",
+    "official_title": "REALITY Study: Analysis of a Prospective REgistry to Assess Outcome and Toxicity of Targeted RadionucLide TherapY in Patients With mCRPC in Clinical Routine.",
+    "status": "UNKNOWN",
+    "conditions": [
+      "Prostate Cancer Metastatic",
+      "Castration Resistant Prostatic Cancer",
+      "Advanced Prostate Carcinoma"
+    ],
+    "keywords": [
+      "mCRPC",
+      "Radioligand Therapy",
+      "PSMA",
+      "PSMA-targeted Therapy",
+      "Radionuclide Therapy",
+      "Ra-223",
+      "Bone-targeted Radionuclide Therapy",
+      "Radioembolization",
+      "SIRT"
+    ],
+    "study_type": "OBSERVATIONAL",
+    "phase": [],
+    "enrollment": 500
+  },
+  {
+    "nct_id": "NCT03780075",
+    "title": "Lu177-EB-PSMA617 Radionuclide Treatment in Patients With Metastatic Castration-resistant Prostate Cancer",
+    "official_title": "Lu177-EB-PSMA617 Prostate-Specific Membrane Antigen Inhibitor Therapy in Patients With Castration-Resistant Prostate Cancer",
+    "status": "UNKNOWN",
+    "conditions": [
+      "Metastatic Castration-resistant Prostate Cancer"
+    ],
+    "keywords": [],
+    "study_type": "INTERVENTIONAL",
+    "phase": [
+      "PHASE1"
+    ],
+    "enrollment": 50
+  },
+  {
+    "nct_id": "NCT07562438",
+    "title": "Prospective Clinical Trial of 177Lu-P17-088 in the Treatment of Metastatic Castration-Resistant Prostate Cancer",
+    "official_title": "Prospective Clinical Trial of Low-dose 177Lu-P17-088 in the Treatment of Metastatic Castration-Resistant Prostate Cancer",
+    "status": "RECRUITING",
+    "conditions": [
+      "Prostate Cancer"
+    ],
+    "keywords": [],
+    "study_type": "INTERVENTIONAL",
+    "phase": [
+      "PHASE2"
+    ],
+    "enrollment": 20
+  },
+  {
+    "nct_id": "NCT07096999",
+    "title": "SPECT/CT Imaging for Dosimetry in 177Lu-PSMA-617 (Pluvicto) Therapy",
+    "official_title": "SPECT/CT Imaging for Dosimetry in 177Lu-PSMA-617 (Pluvicto) Therapy",
+    "status": "RECRUITING",
+    "conditions": [
+      "Metastatic Castration-Resistant Prostate Carcinoma"
+    ],
+    "keywords": [
+      "Prostate Cancer",
+      "177Lu",
+      "PSMA",
+      "mCRPC",
+      "Radioligand Therapy"
+    ],
+    "study_type": "OBSERVATIONAL",
+    "phase": [],
+    "enrollment": 60
+  },
+  {
+    "nct_id": "NCT05146973",
+    "title": "External Beam Therapy With Theranostic Radioligand Therapy for Oligometastatic Prostate Cancer (ProstACT TARGET)",
+    "official_title": "A Single Arm, Phase 2 Trial of External Beam Radiation Therapy (EBRT) in Combination With 177Lu-DOTA-TLX591-CHO in Patients With Biochemically Recurrent Oligometastatic, Prostate Specific Membrane Antigen-Expressing Prostate Cancer",
+    "status": "COMPLETED",
+    "conditions": [
+      "Prostate Cancer"
+    ],
+    "keywords": [],
+    "study_type": "INTERVENTIONAL",
+    "phase": [
+      "PHASE2"
+    ],
+    "enrollment": 5
+  },
+  {
+    "nct_id": "NCT06229366",
+    "title": "[Ac-225]-PSMA-62 Trial in Oligometastatic Hormone Sensitive and Metastatic Castration Resistant Prostate Cancer",
+    "official_title": "[Ac-225]-PSMA-62 Phase I/II Clinical Trial to Characterize Efficacy, Safety, Tolerability, and Dosimetry in Oligometastatic Hormone Sensitive and Metastatic Castration Resistant Prostate Cancer (ACCEL)",
+    "status": "ACTIVE_NOT_RECRUITING",
+    "conditions": [
+      "Prostate Cancer",
+      "Metastatic Castration-resistant Prostate Cancer",
+      "Oligometastatic Prostate Carcinoma",
+      "Hormone Sensitive Prostate Cancer"
+    ],
+    "keywords": [
+      "mCRPC",
+      "OmHSPC",
+      "Prostatic Neoplasms",
+      "Genital Neoplasms, Male",
+      "Castration Resistant Prostate Cancer",
+      "Hormone Sensitive Prostate Cancer",
+      "Oligometastatic Prostate Cancer",
+      "[225Ac]-PSMA-62",
+      "Ac-225-PSMA-62",
+      "Actinium",
+      "Radioligand Therapy",
+      "Radiopharmaceuticals",
+      "Urogenital Neoplasm"
+    ],
+    "study_type": "INTERVENTIONAL",
+    "phase": [
+      "PHASE1"
+    ],
+    "enrollment": 142
+  },
+  {
+    "nct_id": "NCT05570994",
+    "title": "177Lu-HTK03170 in mCRPC With PSMA Positive Disease",
+    "official_title": "A Phase I/II Study of 177Lu-HTK03170 in Metastatic, Castration-Resistant Prostate Cancer Subjects With Prostate-specific Membrane Antigen-positive Disease",
+    "status": "ENROLLING_BY_INVITATION",
+    "conditions": [
+      "Metastatic Castration-resistant Prostate Cancer",
+      "Prostate Cancer Metastatic",
+      "Castrate Resistant Prostate Cancer"
+    ],
+    "keywords": [],
+    "study_type": "INTERVENTIONAL",
+    "phase": [
+      "PHASE1",
+      "PHASE2"
+    ],
+    "enrollment": 50
+  },
+  {
+    "nct_id": "NCT05522257",
+    "title": "PSMA Expression and PSMA PET Imaging in Soft Tissue Sarcomas and Urothelial Cell Carcinomas",
+    "official_title": "Expression of Prostate Specific Membrane Antigen (PSMA) in Soft Tissue Sarcomas and Urothelial Cell Carcinomas: Implications for Tumour-specific Molecular Imaging and Treatment?",
+    "status": "COMPLETED",
+    "conditions": [
+      "Sarcoma,Soft Tissue",
+      "Urothelial Carcinoma"
+    ],
+    "keywords": [
+      "Prostate Specific Membrane Antigen",
+      "Soft Tissue Sarcoma",
+      "Urothelial Carcinoma",
+      "Urothelial Neoplasm",
+      "Transitional Cell Carcinoma",
+      "PSMA",
+      "PSMA PET/CT",
+      "JK-PSMA-7"
+    ],
+    "study_type": "INTERVENTIONAL",
+    "phase": [
+      "NA"
+    ],
+    "enrollment": 25
+  },
+  {
+    "nct_id": "NCT05113537",
+    "title": "Abemaciclib Before 177Lu-PSMA-617 for the Treatment of Metastatic Castrate Resistant Prostate Cancer",
+    "official_title": "Phase I/II Study of CDK4/6 Inhibition With Abemaciclib to Upregulate PSMA Expression Prior to 177Lu-PSMA-617 Treatment in Patients With Metastatic Castrate Resistant Prostate Cancer (mCRPC) Previously Treated With Novel Hormonal Agents and Chemotherapy",
+    "status": "RECRUITING",
+    "conditions": [
+      "Castration-Resistant Prostate Carcinoma",
+      "Metastatic Prostate Adenocarcinoma",
+      "Stage IV Prostate Cancer AJCC v8",
+      "Stage IVA Prostate Cancer AJCC v8",
+      "Stage IVB Prostate Cancer AJCC v8",
+      "Metastatic Castration-resistant Prostate Carcinoma",
+      "Metastatic Castration-resistant Prostate Cancer"
+    ],
+    "keywords": [],
+    "study_type": "INTERVENTIONAL",
+    "phase": [
+      "PHASE1",
+      "PHASE2"
+    ],
+    "enrollment": 30
+  },
+  {
+    "nct_id": "NCT05521412",
+    "title": "EValuation of radIOLigand Treatment in mEn With Metastatic Castration-resistant Prostate Cancer With [161Tb]Tb-PSMA-I&T",
+    "official_title": "EValuation of radIOLigand Treatment in mEn With Metastatic Castration-resistant Prostate Cancer With [161Tb]Tb-PSMA-I&T: Phase I/II Study",
+    "status": "RECRUITING",
+    "conditions": [
+      "Prostate Cancer",
+      "Metastatic Castration-resistant Prostate Cancer"
+    ],
+    "keywords": [
+      "Prostate cancer",
+      "PSMA",
+      "mCRPC",
+      "PSMA-I&T",
+      "[161Tb]Tb",
+      "Terbium-161"
+    ],
+    "study_type": "INTERVENTIONAL",
+    "phase": [
+      "PHASE1",
+      "PHASE2"
+    ],
+    "enrollment": 42
+  },
+  {
+    "nct_id": "NCT06830408",
+    "title": "Performance of 177Lu-PSMA-I&T for RLT in mCRPC - Prospective Multicenter Swiss Registry Study",
+    "official_title": "Swiss Cancer Registry on Safety and Efficacy of 177Lu-ITG-PSMA-1 Radionuclide Therapy in Prostate Cancer Patients",
+    "status": "COMPLETED",
+    "conditions": [
+      "mCRPC"
+    ],
+    "keywords": [
+      "radioligand therapy",
+      "177Lu-PSMA-I&amp;amp;T",
+      "registry-study"
+    ],
+    "study_type": "OBSERVATIONAL",
+    "phase": [],
+    "enrollment": 250
+  },
+  {
+    "nct_id": "NCT05162573",
+    "title": "EBRT + Lu-PSMA for N1M0 Prostate Cancer",
+    "official_title": "Tolerability of Concurrent EBRT + Lu-PSMA for Node-positive Prostate Cancer (PROQURE-1)",
+    "status": "COMPLETED",
+    "conditions": [
+      "Prostatic Neoplasm"
+    ],
+    "keywords": [
+      "Lu-PSMA",
+      "Radiotherapy"
+    ],
+    "study_type": "INTERVENTIONAL",
+    "phase": [
+      "PHASE1"
+    ],
+    "enrollment": 14
+  },
+  {
+    "nct_id": "NCT05613738",
+    "title": "177Lu-PSMA-EB-01 in Patients With Metastatic Castration-resistant Prostate Cancer",
+    "official_title": "Safety and Dosimetry of 177Lu-PSMA-EB-01 in Patients With Metastatic Castration-resistant Prostate Cancer",
+    "status": "UNKNOWN",
+    "conditions": [
+      "Metastatic Castration-resistant Prostate Cancer"
+    ],
+    "keywords": [],
+    "study_type": "INTERVENTIONAL",
+    "phase": [
+      "NA"
+    ],
+    "enrollment": 9
+  },
+  {
+    "nct_id": "NCT07682649",
+    "title": "Escalating Cycle 1 Dose of Lu-177-PSMA-617 for the Treatment of Metastatic Castration Resistant Prostate Cancer",
+    "official_title": "A Phase 1 Study to Investigate Safety of Escalating Cycle 1 Dose of Lu-177-PSMA-617 Radioligand Therapy (RLT) in Metastatic Castration Resistant Prostate Cancer (mCRPC): The ESCENDO Trial",
+    "status": "NOT_YET_RECRUITING",
+    "conditions": [
+      "Metastatic Castration-Resistant Prostate Carcinoma",
+      "Stage IVB Prostate Cancer AJCC v8"
+    ],
+    "keywords": [],
+    "study_type": "INTERVENTIONAL",
+    "phase": [
+      "PHASE1"
+    ],
+    "enrollment": 20
+  },
+  {
+    "nct_id": "NCT06706921",
+    "title": "18F-Fluciclovine PET/CT Impact on Predicting Clinical Outcome of 177Lu-PSMA-617 Therapy in Patients With Prostate Cancer",
+    "official_title": "Usefulness of Tumor Heterogeneity Assessment in Patients With MCRPC Undergoing Radioligand Therapy With 177LU-PSMA-617 Using Serial 18F-DCFPYL, 18F-FDG and 18F-Fluciclovine PET/CT Predicting Clinical Outcome",
+    "status": "RECRUITING",
+    "conditions": [
+      "Prostatic Neoplasms",
+      "Prostatic Neoplasms, Castration-Resistant",
+      "Metastatic Prostate Cancer",
+      "Male Urogenital Diseases",
+      "Prostatic Diseases",
+      "Urogenital Diseases, Male",
+      "Genital Diseases, Male",
+      "Neoplasms",
+      "Neoplasms by Site",
+      "Urogenital Neoplasms",
+      "Genital Neoplasms, Male"
+    ],
+    "keywords": [
+      "Prostate cancer",
+      "PET/CT",
+      "Radioligand Therapy",
+      "Metastatic Castration-Resistant Prostate Cancer",
+      "PSMA PET"
+    ],
+    "study_type": "INTERVENTIONAL",
+    "phase": [
+      "PHASE4"
+    ],
+    "enrollment": 15
+  },
+  {
+    "nct_id": "NCT07354594",
+    "title": "External Beam and Radioligand Radiotherapy for mCRPC",
+    "official_title": "Adaptive External Beam and Radioligand Radiotherapy for MEtaSTatic Castration Resistant Prostate Cancer (ARREST): a Phase II Registry-based RCT",
+    "status": "RECRUITING",
+    "conditions": [
+      "Prostate Cancer Metastatic Castration-Resistant"
+    ],
+    "keywords": [
+      "radiotherapy",
+      "radioligand therapy"
+    ],
+    "study_type": "INTERVENTIONAL",
+    "phase": [
+      "PHASE2"
+    ],
+    "enrollment": 120
+  },
+  {
+    "nct_id": "NCT03939689",
+    "title": "I-131-1095 Radioligand Plus Enzalutamide vs Enzalutamide for mCRPC That Progressed During Abiraterone (ARROW).",
+    "official_title": "A Multicenter, Randomized, Controlled Phase 2 Study: Efficacy and Safety of I-131-1095 Radiotherapy in Combination With Enzalutamide in mCRPC Patients Who Are 18F-DCFPyL PSMA-avid, Chemotherapy-naïve, and Progressed on Abiraterone (ARROW )",
+    "status": "COMPLETED",
+    "conditions": [
+      "Metastatic Prostate Cancer",
+      "Castration-resistant Prostate Cancer",
+      "Prostatic Neoplasm",
+      "Cancer of the Prostate",
+      "Progressive mCRPC"
+    ],
+    "keywords": [
+      "bone metastases",
+      "18F-DCFPyL",
+      "PSMA PET",
+      "PSMA-avidity",
+      "biomarker",
+      "radioligand therapy",
+      "adjunct radiation therapy",
+      "dosimetry",
+      "SPECT/CT",
+      "docetaxel"
+    ],
+    "study_type": "INTERVENTIONAL",
+    "phase": [
+      "PHASE2"
+    ],
+    "enrollment": 120
+  },
+  {
+    "nct_id": "NCT03718260",
+    "title": "PSMA-PET Registry for Recurrent Prostate Cancer",
+    "official_title": "PSMA-PET Registry for Recurrent Prostate Cancer",
+    "status": "COMPLETED",
+    "conditions": [
+      "Recurrent Prostate Cancer"
+    ],
+    "keywords": [
+      "Prostate Cancer",
+      "Biochemical Failure",
+      "Node positive",
+      "PSMA-PET",
+      "[18F]DCFPyL and [18F]-PSMA 1007 PET/CT imaging",
+      "Radical Prostatectomy",
+      "Radiation Therapy"
+    ],
+    "study_type": "INTERVENTIONAL",
+    "phase": [
+      "NA"
+    ],
+    "enrollment": 9684
+  },
+  {
+    "nct_id": "NCT05725070",
+    "title": "Phase 0/1 Study of 212Pb-NG001 in mCRPC",
+    "official_title": "Phase 0/1 Theragnostic Study in Patients With Metastatic Castration Resistant Prostate Cancer in Need of Salvage Therapy, Selected by 18F-PSMA-PET Imaging and Treated by Alpha-therapeutic Radioligand 212Pb-NG001",
+    "status": "COMPLETED",
+    "conditions": [
+      "Metastatic Castration-resistant Prostate Cancer"
+    ],
+    "keywords": [],
+    "study_type": "INTERVENTIONAL",
+    "phase": [
+      "EARLY_PHASE1"
+    ],
+    "enrollment": 3
+  },
+  {
+    "nct_id": "NCT07266129",
+    "title": "Virtual Biopsy of Prostate Cancer Using PSMA PET and AI",
+    "official_title": "Prostate Cancer Malignancy Grading Using Prostate Specific Membrane Antigen (PSMA) PET and Machine Learning",
+    "status": "RECRUITING",
+    "conditions": [
+      "Prostate Cancer (Diagnosis)"
+    ],
+    "keywords": [
+      "Prostate Cancer",
+      "Artificial Intelligence",
+      "Positron Emission Tomography",
+      "Prostate Specific Membrane Antigen"
+    ],
+    "study_type": "OBSERVATIONAL",
+    "phase": [],
+    "enrollment": 220
+  },
+  {
+    "nct_id": "NCT07114601",
+    "title": "A Study of LY4257496 in Participants With Cancer (OMNIRAY)",
+    "official_title": "A Phase 1a/b Multicenter, Open-Label Trial to Evaluate Safety, Tolerability, and Dosimetry of LY4257496, a GRPR-Targeted Radioligand Therapy, in Adults With GRPR-Positive Advanced Solid Tumors (OMNIRAY)",
+    "status": "RECRUITING",
+    "conditions": [
+      "Breast Neoplasms",
+      "Colorectal Neoplasms",
+      "Prostate Neoplasm",
+      "Endometrial Neoplasms",
+      "Neoplasm Metastasis",
+      "Stomach Neoplasms",
+      "Esophageal Neoplasms"
+    ],
+    "keywords": [
+      "GRPR-positive"
+    ],
+    "study_type": "INTERVENTIONAL",
+    "phase": [
+      "PHASE1"
+    ],
+    "enrollment": 421
+  },
+  {
+    "nct_id": "NCT03596710",
+    "title": "Image-Guided Biopsies in Identifying Mechanisms of Resistance in Participants With Metastatic Castration Resistant Prostate Cancer Undergoing Radioligand Therapy",
+    "official_title": "Radiologically Guided Biopsies of Metastatic Castration Resistant Prostate Cancer to Identify Adaptive Mechanisms of Resistance in Patients Undergoing 177Lu-PSMA Radioligand Therapy",
+    "status": "WITHDRAWN",
+    "conditions": [
+      "Castration-Resistant Prostate Carcinoma",
+      "Metastatic Prostate Carcinoma",
+      "Stage IV Prostate Cancer"
+    ],
+    "keywords": [],
+    "study_type": "INTERVENTIONAL",
+    "phase": [
+      "NA"
+    ],
+    "enrollment": 0
+  },
+  {
+    "nct_id": "NCT06866938",
+    "title": "Study of Re-treatment With [177Lu]Lu-PSMA in Men With Metastatic Castration Resistance Prostate Cancer",
+    "official_title": "An Open Label, Single Arm Phase IIb Study of Re-treatment With [177Lu]Lu-PSMA in Men With Metastatic Castration Resistance Prostate Cancer",
+    "status": "RECRUITING",
+    "conditions": [
+      "Metastatic Castration-resistant Prostate Cancer"
+    ],
+    "keywords": [
+      "Metastatic castration resistance prostate cancer",
+      "Internal vectorized radiotherapy",
+      "[177Lu]Lu-PSMA rechallenge"
+    ],
+    "study_type": "INTERVENTIONAL",
+    "phase": [
+      "PHASE2"
+    ],
+    "enrollment": 58
+  },
+  {
+    "nct_id": "NCT05799248",
+    "title": "Role of rhPSMA-7.3 PET/CT Imaging in Men With High-Risk Prostate Cancer Following Conventional Imaging and Associated Changes in Medical Management",
+    "official_title": "Role of rhPSMA-7.3 PET/CT Imaging in Men With High-Risk Prostate Cancer Following Conventional Imaging and Associated Changes in Medical Management",
+    "status": "UNKNOWN",
+    "conditions": [
+      "Prostate Cancer"
+    ],
+    "keywords": [],
+    "study_type": "INTERVENTIONAL",
+    "phase": [
+      "PHASE3"
+    ],
+    "enrollment": 113
+  },
+  {
+    "nct_id": "NCT02578940",
+    "title": "Fluciclovine (18F) PET/CT in biochemicAL reCurrence Of Prostate caNcer",
+    "official_title": "A Phase 3, Open-label Study to Assess the Clinical Utility of Fluciclovine (18F) PET/CT in Patients With Prostate Cancer With Biochemical Recurrence After Radical Treatment",
+    "status": "COMPLETED",
+    "conditions": [
+      "Cancer of the Prostate"
+    ],
+    "keywords": [],
+    "study_type": "INTERVENTIONAL",
+    "phase": [
+      "PHASE3"
+    ],
+    "enrollment": 104
+  },
+  {
+    "nct_id": "NCT06881823",
+    "title": "Study to Assess [177Lu]Lu-PSMA-R2 (AAA602) and [225Ac]Ac-PSMA-R2 (AAA802) in Participants With PSMA-positive HRLPC",
+    "official_title": "NeoPSMA: A Phase I/II, Open-label, Multi-center Study of Neoadjuvant Treatment With [177Lu]Lu-PSMA-R2 (AAA602) and [225Ac]Ac-PSMA-R2 (AAA802) in Adults With Prostate-specific Membrane Antigen (PSMA) Positive High-risk Localized Prostate Cancer (HRLPC) Prior to Radical Prostatectomy and Pelvic Lymph Node Dissection",
+    "status": "WITHDRAWN",
+    "conditions": [
+      "Prostate Cancer"
+    ],
+    "keywords": [
+      "High Risk Localized Prostate Cancer",
+      "prostate-specific membrane antigen",
+      "PSMA",
+      "neoadjuvant treatment",
+      "adults",
+      "radioligand therapies",
+      "RLT",
+      "AAA602",
+      "AAA802",
+      "Prostate cancer",
+      "Phase 1",
+      "Phase 2",
+      "high-risk localized prostate cancer",
+      "HRLPC",
+      "Actinium",
+      "Lutetium",
+      "gozetotide",
+      "Radical Prostatectomy",
+      "RP",
+      "Pelvic Lymph Node Dissection",
+      "PLND"
+    ],
+    "study_type": "INTERVENTIONAL",
+    "phase": [
+      "PHASE1",
+      "PHASE2"
+    ],
+    "enrollment": 0
+  },
+  {
+    "nct_id": "NCT07117760",
+    "title": "Prospective Clinical Trial of 225Ac-LNC1011 in the Treatment of Metastatic Castration-Resistant Prostate Cancer",
+    "official_title": "Prospective Clinical Trial of Low-dose 225Ac-LNC1011 in the Treatment of Metastatic Castration-Resistant Prostate Cancer",
+    "status": "ACTIVE_NOT_RECRUITING",
+    "conditions": [
+      "Prostate Cancer"
+    ],
+    "keywords": [],
+    "study_type": "INTERVENTIONAL",
+    "phase": [
+      "PHASE1",
+      "PHASE2"
+    ],
+    "enrollment": 16
+  },
+  {
+    "nct_id": "NCT03805594",
+    "title": "177Lu-PSMA-617 and Pembrolizumab in Treating Patients With Metastatic Castration-Resistant Prostate Cancer",
+    "official_title": "Immunogenic Priming With PSMA-Targeted Radioligand Therapy in Advanced Prostate Cancer: A Phase 1b Study of 177Lu-PSMA-617 in Combination With Pembrolizumab",
+    "status": "COMPLETED",
+    "conditions": [
+      "Castration Levels of Testosterone",
+      "Castration-Resistant Prostate Carcinoma",
+      "Metastatic Prostate Carcinoma",
+      "Prostate Adenocarcinoma",
+      "Stage IV Prostate Cancer",
+      "Stage IVA Prostate Cancer",
+      "Stage IVB Prostate Cancer"
+    ],
+    "keywords": [],
+    "study_type": "INTERVENTIONAL",
+    "phase": [
+      "PHASE1"
+    ],
+    "enrollment": 43
+  },
+  {
+    "nct_id": "NCT06105918",
+    "title": "Radioligand Therapy After PSMA PET Guided External Beam Radiotherapy for Treating Post-Prostatectomy Patients With Biochemically Recurrent Prostate Cancer",
+    "official_title": "Phase 1 Trial to Determine Safety and Feasibility in Treating Biochemical Recurrence Post-Prostatectomy With PSMA PET Guided External Beam Radiotherapy Followed by Consolidative Radioligand Therapy",
+    "status": "ACTIVE_NOT_RECRUITING",
+    "conditions": [
+      "Biochemically Recurrent Prostate Carcinoma",
+      "Prostate Adenocarcinoma"
+    ],
+    "keywords": [],
+    "study_type": "INTERVENTIONAL",
+    "phase": [
+      "PHASE1"
+    ],
+    "enrollment": 6
+  },
+  {
+    "nct_id": "NCT06964958",
+    "title": "177LuPSMA in Renal Cell Carcinoma",
+    "official_title": "LASER - a Phase 2 Trial of 177Lu-PSMA-617 as Systemic Therapy for Renal Cell Carcinoma",
+    "status": "ACTIVE_NOT_RECRUITING",
+    "conditions": [
+      "Renal Cell Carcinoma",
+      "Advanced Clear Cell Renal Cell Carcinoma",
+      "Kidney Cancer"
+    ],
+    "keywords": [
+      "Renal Cell Carcinoma",
+      "Advanced Clear Cell Renal Cell Carcinoma",
+      "Kidney Cancer",
+      "ccRCC",
+      "Prostate-specific membrane antigen",
+      "PSMA"
+    ],
+    "study_type": "INTERVENTIONAL",
+    "phase": [
+      "PHASE2"
+    ],
+    "enrollment": 24
+  },
+  {
+    "nct_id": "NCT07381582",
+    "title": "Safety, Tolerability and Preliminary Efficacy of 161Tb-LNC1011 (PSMA Radioligand) in Patients With Metastatic Castration-Resistant Prostate Cancer (mCRPC)",
+    "official_title": "A Prospective, Open-label, Dose-Escalation, Single-Center Study to Evaluate the Safety, Biodistribution/Dosimetry and Preliminary Efficacy of 161Tb-LNC1011 in Patients With Metastatic Castration-Resistant Prostate Cancer",
+    "status": "NOT_YET_RECRUITING",
+    "conditions": [
+      "Prostate Cancer"
+    ],
+    "keywords": [
+      "Terbium-161",
+      "PSMA",
+      "Radionuclide therapy",
+      "Metastatic castration-resistant prostate cancer"
+    ],
+    "study_type": "INTERVENTIONAL",
+    "phase": [
+      "EARLY_PHASE1"
+    ],
+    "enrollment": 15
+  },
+  {
+    "nct_id": "NCT07118436",
+    "title": "Liquid Biopsy Under PSMA Radioligand Therapy",
+    "official_title": "Liquid Biopsy as a Biomarker in Patients Treated With PSMA Radioligand Therapy",
+    "status": "RECRUITING",
+    "conditions": [
+      "Prostate Cancer Metastatic Castration-Resistant",
+      "Prostate Cancer"
+    ],
+    "keywords": [
+      "mCRPC",
+      "PSMA",
+      "radioligand therapy",
+      "liquid biopsy",
+      "cfDNA"
+    ],
+    "study_type": "OBSERVATIONAL",
+    "phase": [],
+    "enrollment": 100
+  },
+  {
+    "nct_id": "NCT04443062",
+    "title": "Lutetium-177-PSMA-617 in Oligo-metastatic Hormone Sensitive Prostate Cancer",
+    "official_title": "Lutetium-177-PSMA-617 Radioligand Therapy in Oligo-metastatic Hormone Sensitive Prostate Cancer.",
+    "status": "COMPLETED",
+    "conditions": [
+      "Prostate Cancer"
+    ],
+    "keywords": [
+      "Prostate cancer",
+      "Hormone sensitive",
+      "Oligometastases",
+      "177Lu-PSMA",
+      "Metastases directed therapy"
+    ],
+    "study_type": "INTERVENTIONAL",
+    "phase": [
+      "PHASE2"
+    ],
+    "enrollment": 58
+  },
+  {
+    "nct_id": "NCT07608848",
+    "title": "First-in-human Diagnostic Imaging Profile of the Theranostic Pair [68Ga]Ga-DOTA-STR-17126 and Low Dose [177Lu] Lu-DOTA-STR-17126 in Patients With Advanced or Metastatic Cancer",
+    "official_title": "An Open-label, First-in-human, Exploratory Imaging Study of the DOTA-STR-17126 Theranostic Pair [68Ga]Ga-DOTA-STR-17126 and Low-dose [177Lu]Lu-DOTA-STR-17126 in Patients With Advanced or Metastatic Cancer",
+    "status": "RECRUITING",
+    "conditions": [
+      "Metastatic Breast Cancer",
+      "Metastatic Prostate Cancer",
+      "GRPR-Targeted Molecular Imaging",
+      "Theranostic Radiopharmaceuticals",
+      "Cancer",
+      "Active Cancer",
+      "Theranostic",
+      "Radiopharmaceutical"
+    ],
+    "keywords": [],
+    "study_type": "INTERVENTIONAL",
+    "phase": [
+      "EARLY_PHASE1"
+    ],
+    "enrollment": 20
+  },
+  {
+    "nct_id": "NCT07389512",
+    "title": "Pharmaceutical Management in Targeted Radioligand Therapy",
+    "official_title": "Development and Evaluation of Clinical Radiopharmacy in the Pharmaceutical Management of Patients Treated With Targeted Radionuclide Therapy (TRT) Within Nuclear Medicine Departments",
+    "status": "RECRUITING",
+    "conditions": [
+      "Cancer",
+      "Thyroid Cancer",
+      "Metastatic Prostate Cancer",
+      "Neuroendocrine Tumor Carcinoid"
+    ],
+    "keywords": [
+      "Clinical radiopharmacy",
+      "Pharmaceutical consultation",
+      "Targeted Radionuclide Therapy"
+    ],
+    "study_type": "OBSERVATIONAL",
+    "phase": [],
+    "enrollment": 600
+  },
+  {
+    "nct_id": "NCT07587814",
+    "title": "Impact of Body Composition on Dosimetry of 177Lu-PSMA Radioligand Therapy",
+    "official_title": "Impact de la Composition Corporelle Sur la dosimétrie de la radiothérapie Interne vectorisée au 177Lu-PSMA",
+    "status": "NOT_YET_RECRUITING",
+    "conditions": [
+      "Carcinoma",
+      "Castration Resistant Prostatic Neoplasms"
+    ],
+    "keywords": [
+      "Lutetium-177",
+      "PSMA",
+      "Body composition",
+      "Dosimetry",
+      "Radioligand therapy",
+      "Prostate cancer"
+    ],
+    "study_type": "INTERVENTIONAL",
+    "phase": [
+      "NA"
+    ],
+    "enrollment": 100
+  },
+  {
+    "nct_id": "NCT03511664",
+    "title": "Study of 177Lu-PSMA-617 In Metastatic Castrate-Resistant Prostate Cancer",
+    "official_title": "VISION: An International, Prospective, Open Label, Multicenter, Randomized Phase 3 Study of 177Lu-PSMA-617 in the Treatment of Patients With Progressive PSMA-positive Metastatic Castration-resistant Prostate Cancer (mCRPC)",
+    "status": "COMPLETED",
+    "conditions": [
+      "Prostate Cancer"
+    ],
+    "keywords": [
+      "Metastatic castration-resistant prostate cancer",
+      "mCRPC",
+      "177Lu-PSMA-617",
+      "PSMA-617",
+      "PSMA-11",
+      "radioligand therapy"
+    ],
+    "study_type": "INTERVENTIONAL",
+    "phase": [
+      "PHASE3"
+    ],
+    "enrollment": 861
+  },
+  {
+    "nct_id": "NCT05073653",
+    "title": "A Study of 68Ga-GRP PET/CT for Imaging in Low and Intermediate Risk Prostate Cancer",
+    "official_title": "A Study of 68Ga-GRP PET/CT for Imaging in Low and Intermediate Risk Prostate Cancer",
+    "status": "UNKNOWN",
+    "conditions": [
+      "Prostate Cancer"
+    ],
+    "keywords": [
+      "Prostate Cancer",
+      "68Ga-GRP PET/CT",
+      "68Ga-PSMA PET/CT"
+    ],
+    "study_type": "INTERVENTIONAL",
+    "phase": [
+      "NA"
+    ],
+    "enrollment": 80
+  },
+  {
+    "nct_id": "NCT06855277",
+    "title": "Study Comparing AAA817+ARPI Versus Standard of Care in Adult Participants With PSMA-positive mCRPC",
+    "official_title": "A Phase III, Open-label, Multi-center, Randomized Study Comparing AAA817+ARPI Versus Standard of Care in Adult Participants With PSMA-positive Metastatic Castration Resistant Prostate Cancer",
+    "status": "RECRUITING",
+    "conditions": [
+      "Prostate Cancer"
+    ],
+    "keywords": [
+      "Positive Metastatic Castration Resistant Prostate Cancer",
+      "PSMA",
+      "PSMA-positive",
+      "AAA817",
+      "[225AC] AC-PSMA-617",
+      "Radioligand Therapy",
+      "RLT",
+      "Androgen receptor pathway inhibitor",
+      "ARPI",
+      "Taxane",
+      "Metastatic castration resistant prostate cancer",
+      "mCRPC",
+      "AcTFirst",
+      "[177Lu]Lu- PSMA-617",
+      "AAA617"
+    ],
+    "study_type": "INTERVENTIONAL",
+    "phase": [
+      "PHASE3"
+    ],
+    "enrollment": 940
+  },
+  {
+    "nct_id": "NCT06379217",
+    "title": "NEPC Study: An Exploratory Safety and Efficacy Study With PSMA, SSTR2 and GRPR Targeted Radioligand Therapy in Metastatic Neuroendocrine Prostate Cancer.",
+    "official_title": "A Phase I, Open-label, Multi-center Exploratory Safety and Efficacy Study With PSMA, SSTR2 and GRPR Targeted Radioligand Therapy in Metastatic Neuroendocrine Prostate Cancer.",
+    "status": "ACTIVE_NOT_RECRUITING",
+    "conditions": [
+      "Metastatic Neuroendocrine Prostate Cancer"
+    ],
+    "keywords": [
+      "[68Ga]Ga-PSMA-11",
+      "[177Lu]Lu-PSMA-617",
+      "[68Ga]Ga-DOTA-TATE",
+      "[177Lu]Lu-DOTA-TATE",
+      "[68Ga]Ga-NeoB",
+      "[177Lu]Lu-NeoB",
+      "Neuroendocrine prostate cancer (NEPC)",
+      "Metastatic Neuroendocrine Prostate Cancer (mNEPC)",
+      "Radioligand Imaging (RLI)",
+      "Radioligand Therapy (RLT)",
+      "Prostate-specific membrane antigen (PSMA)",
+      "Somatostatin Receptor 2 (SSTR2)",
+      "Gastrin Releasing Peptide Receptor (GRPR)",
+      "Phase 1"
+    ],
+    "study_type": "INTERVENTIONAL",
+    "phase": [
+      "PHASE1"
+    ],
+    "enrollment": 31
+  },
+  {
+    "nct_id": "NCT04720157",
+    "title": "An International Prospective Open-label, Randomized, Phase III Study Comparing 177Lu-PSMA-617 in Combination With Standard of Care (SoC), Versus SoC Alone, in Adult Male Patients With Metastatic Hormone Sensitive Prostate Cancer (mHSPC)",
+    "official_title": "An Open-label, Randomized, Phase III Study Comparing 177Lu-PSMA-617 in Combination With Standard of Care, Versus Standard of Care Alone, in Adult Male Patients With Metastatic Hormone Sensitive Prostate Cancer (mHSPC)",
+    "status": "ACTIVE_NOT_RECRUITING",
+    "conditions": [
+      "Prostatic Neoplasms"
+    ],
+    "keywords": [
+      "Lutetium-177 PSMA-617",
+      "177Lu-PSMA-617",
+      "Androgen receptor-directed therapy",
+      "ARDT",
+      "Androgen Deprivation Therapy",
+      "ADT",
+      "Metastatic Hormone sensitive prostate cancer",
+      "mHSPC",
+      "Radiographic progression free survival",
+      "rPFS",
+      "Prostate-specific membrane antigen",
+      "PSMA",
+      "Gallium-68 PSMA-11",
+      "68Ga-PSMA-11",
+      "Radioligand Therapy",
+      "RLT"
+    ],
+    "study_type": "INTERVENTIONAL",
+    "phase": [
+      "PHASE3"
+    ],
+    "enrollment": 1140
+  },
+  {
+    "nct_id": "NCT04663997",
+    "title": "177 LuPSMA-617 vs Docetaxel in Metastatic Castration Resistant and PSMA-Positive Prostate Cancer",
+    "official_title": "A Randomized Phase II Study of 177 LuPSMA-617 vs Docetaxel in Patients With Metastatic Castration-Resistant Prostate Cancer and PSMA-Positive Disease",
+    "status": "ACTIVE_NOT_RECRUITING",
+    "conditions": [
+      "Prostate Cancer"
+    ],
+    "keywords": [
+      "mCRPC",
+      "docetaxel",
+      "177Lu-PSMA-617",
+      "radioligand therapy",
+      "metastatic prostate cancer"
+    ],
+    "study_type": "INTERVENTIONAL",
+    "phase": [
+      "PHASE2"
+    ],
+    "enrollment": 200
+  },
+  {
+    "nct_id": "NCT06200103",
+    "title": "Schedule De-Escalation of 177Lu-PSMA-617 for the Treatment of Metastatic Castrate Resistant Prostate Cancer",
+    "official_title": "Minority-Inclusive Imaging Biomarker-Based End of Therapy Trial for 177Lu-PSMA-617, a Randomized De-Escalation Theranostic Trial for Metastatic Castrate Resistant Prostate Cancer",
+    "status": "SUSPENDED",
+    "conditions": [
+      "Castration-Resistant Prostate Carcinoma",
+      "Stage IVB Prostate Cancer AJCC v8"
+    ],
+    "keywords": [],
+    "study_type": "INTERVENTIONAL",
+    "phase": [
+      "PHASE2"
+    ],
+    "enrollment": 236
+  },
+  {
+    "nct_id": "NCT07476001",
+    "title": "Phase 2a Study of High-Dose Testosterone Followed by Radioligand Therapy in mCRPC",
+    "official_title": "A Phase 2a Study of High Dose Testosterone Followed by Targeted Radioligand Therapy in Metastatic Castration Resistant Prostate Cancer",
+    "status": "RECRUITING",
+    "conditions": [
+      "Metastatic Castration-resistant Prostate Cancer"
+    ],
+    "keywords": [],
+    "study_type": "INTERVENTIONAL",
+    "phase": [
+      "PHASE2"
+    ],
+    "enrollment": 12
+  },
+  {
+    "nct_id": "NCT06260410",
+    "title": "Data Collection in Lutetium Treated Prostate Cancer: Recording of Progression and Tumor Characteristics",
+    "official_title": "Data Collection in Lutetium Treated Prostate Cancer: Recording of Progression and Tumor Characteristics",
+    "status": "RECRUITING",
+    "conditions": [
+      "Prostate Cancer Metastatic"
+    ],
+    "keywords": [
+      "mCRPC",
+      "Lu-PSMA",
+      "Prostate Cancer",
+      "Radioligand Therapy"
+    ],
+    "study_type": "OBSERVATIONAL",
+    "phase": [],
+    "enrollment": 150
+  },
+  {
+    "nct_id": "NCT07214961",
+    "title": "Study of Alpha Radioligand Therapy AB001 in Patients With Metastatic Castration Resistant Prostate Cancer (mCRPC)",
+    "official_title": "Study to Investigate the Safety, Tolerability, Pharmacokinetics, Biodistribution and Antitumour Activity of the Alpha Radioligand Therapy AB001 in Patients With Metastatic Castration Resistant Prostate Cancer",
+    "status": "ACTIVE_NOT_RECRUITING",
+    "conditions": [
+      "Prostate Cancer (CRPC)",
+      "Metastatic Castrate Resistant Prostate Cancer (mCRPC)"
+    ],
+    "keywords": [
+      "radioligand therapy",
+      "Pb-212",
+      "castrate-resistant prostate cancer",
+      "alpha particles",
+      "metastatic",
+      "mCRPC",
+      "Lu-177"
+    ],
+    "study_type": "INTERVENTIONAL",
+    "phase": [
+      "PHASE1"
+    ],
+    "enrollment": 80
+  },
+  {
+    "nct_id": "NCT03490838",
+    "title": "177Lu-PSMA-R2 in Patients With PSMA Positive Progressive, Metastatic, Castration Resistant Prostate Cancer",
+    "official_title": "A Phase 1/2 Open-label, Multi-center, Dose-escalation Study of Safety, Tolerability, Pharmacokinetics, Dosimetry, and Response to Repeat Dosing of 177Lu-PSMA-R2 Radio-ligand Therapy in Patients With Prostate Specific Membrane Antigen (PSMA) Positive (68Ga-PSMA-R2) Progressive Metastatic Castration-resistant Prostate Cancer, Following Previous Systemic Treatment",
+    "status": "TERMINATED",
+    "conditions": [
+      "Prostatic Neoplasm"
+    ],
+    "keywords": [
+      "Genital Neoplasms, Male",
+      "Urogenital Neoplasms",
+      "Neoplasms by Site",
+      "Neoplasms",
+      "Prostatic Diseases",
+      "Cancer of Prostate",
+      "Cancer of the Prostate",
+      "Neoplasms, Prostate",
+      "Neoplasms, Prostatic",
+      "Prostate Cancer",
+      "Prostate Neoplasms",
+      "Prostatic Cancer",
+      "Prostate-Specific Membrane Antigen",
+      "PSMA",
+      "PSMA radioligand therapy"
+    ],
+    "study_type": "INTERVENTIONAL",
+    "phase": [
+      "PHASE1"
+    ],
+    "enrollment": 27
+  },
+  {
+    "nct_id": "NCT05204927",
+    "title": "177Lu-PSMA-I&T for Metastatic Castration-Resistant Prostate Cancer",
+    "official_title": "A Multi-Center, Open-Label, Randomized Phase 3 Trial Comparing the Safety and Efficacy of 177Lu-PSMA-I&T Versus Hormone Therapy in Patients With Metastatic Castration-Resistant Prostate Cancer",
+    "status": "ACTIVE_NOT_RECRUITING",
+    "conditions": [
+      "Metastasis From Malignant Tumor of Prostate"
+    ],
+    "keywords": [
+      "Radioligand Therapy",
+      "Prostate Cancer",
+      "177Lu-PSMA",
+      "PSMA",
+      "ECLIPSE"
+    ],
+    "study_type": "INTERVENTIONAL",
+    "phase": [
+      "PHASE3"
+    ],
+    "enrollment": 439
+  },
+  {
+    "nct_id": "NCT04186845",
+    "title": "Imaging Study to Investigate Safety and Diagnostic Performance of 18F rhPSMA 7.3 PET Ligand in Suspected Prostate Cancer Recurrence",
+    "official_title": "A Prospective, Phase 3, Multi Center, Single-arm, Imaging Study Investigating the Safety and Diagnostic Performance of rhPSMA 7.3 (18F) PET Ligand in Men With Suspected Prostate Cancer Recurrence Based on Elevated PSA Following Prior Therapy (SPOTLIGHT)",
+    "status": "COMPLETED",
+    "conditions": [
+      "Prostate Cancer"
+    ],
+    "keywords": [
+      "Recurrent Prostate Cancer",
+      "Diagnostic",
+      "Prostate Specific Membrane Antigen (PSMA)",
+      "Positron Emission Tomography (PET) Scan"
+    ],
+    "study_type": "INTERVENTIONAL",
+    "phase": [
+      "PHASE3"
+    ],
+    "enrollment": 391
+  },
+  {
+    "nct_id": "NCT05823402",
+    "title": "Use of SPECT-CT for Comparison of Dosimetry Methods in PSMA-targeted Radioligand Therapy (SPECTacular Study)",
+    "official_title": "Use of SPECT-CT for Comparison of Dosimetry Methods in PSMA-targeted Radioligand Therapy (SPECTacular Study)",
+    "status": "UNKNOWN",
+    "conditions": [
+      "Metastatic Castration-resistant Prostate Cancer"
+    ],
+    "keywords": [],
+    "study_type": "INTERVENTIONAL",
+    "phase": [
+      "NA"
+    ],
+    "enrollment": 30
+  },
+  {
+    "nct_id": "NCT07006727",
+    "title": "Phase I Study of [225Ac]Ac-ETN029 in Patients With Advanced DLL3-expressing Solid Tumors",
+    "official_title": "A Phase I, Open-label, Multi-center Study to Evaluate the Safety, Tolerability, Dosimetry, and Preliminary Activity of [225Ac]Ac-ETN029 in Patients With Advanced DLL3-expressing Solid Tumors",
+    "status": "RECRUITING",
+    "conditions": [
+      "Small Cell Lung Carcinoma",
+      "Large Cell Neuroendocrine Carcinoma of the Lung",
+      "Neuroendocrine Prostate Cancer",
+      "Gastroenteropancreatic Neuroendocrine Carcinoma",
+      "Non-prostate Extrapulmonary Neuroendocrine Carcinoma",
+      "Cervical Neuroendocrine Carcinoma",
+      "Thymic Neuroendocrine Carcinoma",
+      "Genitourinary Neuroendocrine Carcinoma",
+      "Unknown Primary Neuroendocrine Carcinomas",
+      "Merkel Cell Carcinoma",
+      "Medullary Thyroid Carcinoma"
+    ],
+    "keywords": [
+      "Small Cell Lung Carcinoma (SCLC)",
+      "Large Cell Neuroendocrine Carcinoma of the Lung (LCNEC)",
+      "Neuroendocrine Prostate Cancer (NEPC)",
+      "Gastroenteropancreatic Neuroendocrine Carcinoma (GEP-NEC)",
+      "Cervical Neuroendocrine Carcinoma",
+      "Thymic Neuroendocrine Carcinoma",
+      "Genitourinary Neuroendocrine Carcinoma (GU-NEC)",
+      "Unknown Primary Neuroendocrine Carcinomas",
+      "Merkel cell carcinoma (MCC)",
+      "Medullary thyroid carcinoma (MTC)",
+      "DLL3",
+      "Neuroendocrine neoplasms",
+      "Radioligand therapy (RLT)",
+      "[225Ac]Ac-ETN029",
+      "[111In]In-ETN029"
+    ],
+    "study_type": "INTERVENTIONAL",
+    "phase": [
+      "PHASE1"
+    ],
+    "enrollment": 123
+  },
+  {
+    "nct_id": "NCT07047118",
+    "title": "A Study of JSB462 (Luxdegalutamide) Plus Lutetium (177Lu) Vipivotide Tetraxetan in Patients With Metastatic Castration Resistant Prostate Cancer (mCRPC)",
+    "official_title": "A Phase II, Randomized, Open-label, Multi-center Study of JSB462 (Luxdegalutamide) in Combination With Lutetium (177Lu) Vipivotide Tetraxetan in Adult Male Patients With PSMA-positive Metastatic Castration Resistant Prostate Cancer (mCRPC)",
+    "status": "ACTIVE_NOT_RECRUITING",
+    "conditions": [
+      "Prostatic Cancer, Castration-Resistant"
+    ],
+    "keywords": [
+      "Prostate cancer",
+      "metastatic Castration Resistant Prostate Cancer (mCRPC)",
+      "Castration-resistant",
+      "Prostate-Specific Membrane Antigen (PSMA)",
+      "PSMA-positive",
+      "Radioligand Therapy (RLT)",
+      "lutetium (177Lu) vipivotide tetraxetan",
+      "Phase 2",
+      "Open-label",
+      "Androgen Receptor Pathway Inhibitor (ARPI)"
+    ],
+    "study_type": "INTERVENTIONAL",
+    "phase": [
+      "PHASE2"
+    ],
+    "enrollment": 138
+  },
+  {
+    "nct_id": "NCT03828838",
+    "title": "Lutetium-177-PSMA-617 in Low Volume Metastatic Prostate Cancer",
+    "official_title": "Pilot Study: Lutetium-177-PSMA-617 in Low Volume Metastatic Prostate Cancer",
+    "status": "COMPLETED",
+    "conditions": [
+      "Prostate Neoplasm"
+    ],
+    "keywords": [],
+    "study_type": "INTERVENTIONAL",
+    "phase": [
+      "PHASE1",
+      "PHASE2"
+    ],
+    "enrollment": 10
+  },
+  {
+    "nct_id": "NCT07711002",
+    "title": "Saruparib in Combination With Physician's Choice of ARPI in Patients With mHSPC Previously Treated With Docetaxel or 177Lu-PSMA Therapy Without Disease Progression and PSA ≥ 0.2 ng/mL (EvoPAR-PR05)",
+    "official_title": "A Randomized, Double-Blind, Placebo-Controlled, 2-Cohort, Phase III Study of Saruparib Combined With Physician's Choice of Androgen Receptor Pathway Inhibitor in Patients With Metastatic Hormone-Sensitive Prostate Cancer, Previously Treated With Docetaxel or PSMA-directed 177Lutetium-Containing Therapy Without Disease Progression, and With Prostate-Specific Antigen ≥ 0.2 ng/mL: EvoPAR-Prostate05",
+    "status": "NOT_YET_RECRUITING",
+    "conditions": [
+      "Metastatic Hormone-Sensitive Prostate Cancer (mHSPC)"
+    ],
+    "keywords": [
+      "Saruparib",
+      "HRRm",
+      "non-HRRm",
+      "mHSPC",
+      "Prostate Cancer",
+      "AZD5305",
+      "PSA>0.2ng/ml",
+      "Androgen pathway modulation sensitive (APMS)",
+      "Castration sensitive",
+      "Metastatic prostate cancer",
+      "Hormone sensitive prostate cancer",
+      "PARPi",
+      "Docetaxel",
+      "PSMA-directed 177Lutetium"
+    ],
+    "study_type": "INTERVENTIONAL",
+    "phase": [
+      "PHASE3"
+    ],
+    "enrollment": 1330
+  },
+  {
+    "nct_id": "NCT05283330",
+    "title": "Safety and Tolerability of ²¹²Pb-DOTAM-GRPR1 in Adult Subjects With Recurrent or Metastatic GRPR-expressing Tumors",
+    "official_title": "A Phase 1 Open-Label, First-in-human, Dose Escalation and Expansion Study to Determine the Safety, Tolerability, Dosimetry, Pharmacokinetics, and Preliminary Efficacy of 212Pb-DOTAM-GRPR1 in Adult Participants With Recurrent or Metastatic GRPR-expressing Tumors",
+    "status": "RECRUITING",
+    "conditions": [
+      "Cervical Cancer",
+      "Breast Cancer",
+      "Colon Cancer",
+      "NSCLC",
+      "mCRPC (Metastatic Castration-resistant Prostate Cancer)",
+      "Glioblastoma",
+      "Nonsmall Cell Lung Cancer"
+    ],
+    "keywords": [
+      "Metastatic Cancer",
+      "Advanced Cancer",
+      "Recurrent Cancer",
+      "Prostate Cancer, Castration-Resistant",
+      "Metastatic Prostate Cancer",
+      "Breast Cancer, Hormone Receptor Positive",
+      "Non-Small Cell Lung Cancer",
+      "Colorectal Cancer",
+      "Cervical Cancer",
+      "Glioblastoma, Recurrent",
+      "Radioligand Therapy",
+      "Targeted Radiation Therapy",
+      "Gastrin-Releasing Peptide Receptor or Bombesin receptor subtype-2",
+      "Targeted Alpha Therapy",
+      "Lead-212 Radiopharmaceutical Therapy",
+      "Lead-203 Radiopharmaceutical Diagnostic",
+      "SPECT/CT"
+    ],
+    "study_type": "INTERVENTIONAL",
+    "phase": [
+      "PHASE1"
+    ],
+    "enrollment": 48
+  },
+  {
+    "nct_id": "NCT06303713",
+    "title": "LuCarbo - a Study of 177Lu-PSMA-617 Plus Carboplatin in Metastatic Castrate-resistant Prostate Cancer",
+    "official_title": "LuCarbo - a Phase 1a/1b Study of 177Lu-PSMA-617 Plus Carboplatin in Metastatic Castrate-resistant Prostate Cancer",
+    "status": "ACTIVE_NOT_RECRUITING",
+    "conditions": [
+      "Prostate Cancer",
+      "Metastatic Prostate Cancer",
+      "Metastatic Castration-resistant Prostate Cancer"
+    ],
+    "keywords": [
+      "Prostate Cancer",
+      "Metastatic Prostate Cancer",
+      "Metastatic Castration-resistant Prostate Cancer"
+    ],
+    "study_type": "INTERVENTIONAL",
+    "phase": [
+      "PHASE1"
+    ],
+    "enrollment": 37
+  },
+  {
+    "nct_id": "NCT07096128",
+    "title": "A Study of [177Lu] Lu-PSMA-XT Injection in Patients With Metastatic Prostate Cancer",
+    "official_title": "A Phase I Study to Assess the Safety, Tolerability, Radiation Dosimetry and Efficacy of [177Lu] Lu-PSMA-XT in Patients With Metastatic Prostate Cancer",
+    "status": "RECRUITING",
+    "conditions": [
+      "mCRPC"
+    ],
+    "keywords": [
+      "mCRPC",
+      "177Lu",
+      "PSMA"
+    ],
+    "study_type": "INTERVENTIONAL",
+    "phase": [
+      "PHASE1"
+    ],
+    "enrollment": 36
+  },
+  {
+    "nct_id": "NCT05114746",
+    "title": "Study of 177Lu-PSMA-617 In Metastatic Castrate-Resistant Prostate Cancer in Japan",
+    "official_title": "A Prospective, Open Label, Multicenter, Single Arm, Phase 2 Study of 177Lu-PSMA-617 in the Treatment of Participants With Progressive PSMA- Positive Metastatic Castration-resistant Prostate Cancer (mCRPC) in Japan",
+    "status": "COMPLETED",
+    "conditions": [
+      "Prostate Cancer"
+    ],
+    "keywords": [
+      "177Lu-PSMA-617",
+      "68Ga-PSMA-11",
+      "68Ge/68Ga Generator",
+      "metastatic castration-resistant prostate cancer",
+      "mCRPC",
+      "prostate-specific membrane antigen",
+      "PSMA",
+      "radioligand",
+      "taxane",
+      "enzalutamide",
+      "abiraterone",
+      "Overall Response Rate",
+      "ORR"
+    ],
+    "study_type": "INTERVENTIONAL",
+    "phase": [
+      "PHASE2"
+    ],
+    "enrollment": 94
+  },
+  {
+    "nct_id": "NCT07200830",
+    "title": "Testing Different Dosing Schedules of the Anti-cancer Drug, Lutetium 177Lu PSMA RLT and Its Effect on Patients With Advanced Prostate Cancer, RECIPROCAL Trial",
+    "official_title": "Radioligand Efficacy Comparison by Initial PSA-Response Outcome in Metastatic CRPC With Lutetium 177Lu PSMA RLT (RECIPROCAL)",
+    "status": "RECRUITING",
+    "conditions": [
+      "Metastatic Castration-Resistant Prostate Carcinoma",
+      "Metastatic Prostate Adenocarcinoma",
+      "Stage IVB Prostate Cancer AJCC v8"
+    ],
+    "keywords": [],
+    "study_type": "INTERVENTIONAL",
+    "phase": [
+      "PHASE3"
+    ],
+    "enrollment": 1524
+  },
+  {
+    "nct_id": "NCT04186819",
+    "title": "Imaging Study to Investigate the Safety and Diagnostic Performance of rhPSMA 7.3 (18F) in Newly Diagnosed Prostate Cancer.",
+    "official_title": "A Prospective, Phase 3, Multi Center, Single-arm, Imaging Study Investigating the Safety and Diagnostic Performance of rhPSMA 7.3 (18F) Positron Emission Tomography (PET) Ligand in Men With Newly Diagnosed Prostate Cancer",
+    "status": "COMPLETED",
+    "conditions": [
+      "Prostate Cancer"
+    ],
+    "keywords": [
+      "Primary Prostate Cancer",
+      "Diagnostic",
+      "Prostate Specific Membrane Antigen (PSMA)",
+      "Positron Emission Tomography (PET) Scan"
+    ],
+    "study_type": "INTERVENTIONAL",
+    "phase": [
+      "PHASE3"
+    ],
+    "enrollment": 356
+  },
+  {
+    "nct_id": "NCT06531499",
+    "title": "A Study of Radiation Dosimetry, Safety, and Tolerability of Extended Lutetium (177Lu) Vipivotide Tetraxetan Treatment in Chemo-naïve Adults With Metastatic Castration-resistant Prostate Cancer: RADIOpharmaceutical DOSimetry Evaluation (RADIODOSE) Study",
+    "official_title": "A Phase I, Open-label, Multi-center Study of Radiation Dosimetry, Safety, and Tolerability of Extended Lutetium (177Lu) Vipivotide Tetraxetan Treatment in Chemo-naïve Adults With Metastatic Castration-resistant Prostate Cancer",
+    "status": "RECRUITING",
+    "conditions": [
+      "Metastatic Castration-Resistant Prostate Cancer"
+    ],
+    "keywords": [
+      "Phase 1",
+      "RADIODOSE",
+      "AAA617",
+      "metastatic castration-resistant prostate cancer",
+      "radiation dosimetry",
+      "mCRPC",
+      "Prostate-specific membrane antigen (PSMA)",
+      "Dosimetry",
+      "[68Ga]Ga-PSMA-11",
+      "gallium (68Ga) gozetotide",
+      "[177Lu]Lu-PSMA-617",
+      "lutetium (177Lu) vipivotide tetraxetan",
+      "Radioligand Imaging (RLI)",
+      "Radioligand Therapy (RLT)"
+    ],
+    "study_type": "INTERVENTIONAL",
+    "phase": [
+      "PHASE1"
+    ],
+    "enrollment": 106
+  },
+  {
+    "nct_id": "NCT07189871",
+    "title": "177Lu-BetaBart in Patients With Relapsed/Refractory, Locally Advanced Inoperable, or Metastatic Solid Tumors",
+    "official_title": "A Phase 1/2a Study of the Safety, Tolerability, and Preliminary Clinical Activity of 177LuBetaBart, a 177Lu-Labeled Anti-B7-H3 Monoclonal Antibody, in Patients With Relapsed/Refractory, Locally Advanced Inoperable, or Metastatic Solid Tumors",
+    "status": "RECRUITING",
+    "conditions": [
+      "Castration-Resistant Prostate Cancer (CRPC)",
+      "Colorectal Cancer",
+      "NSCLC (Non-small Cell Lung Cancer)",
+      "Ovarian Cancer",
+      "Cervical Cancer",
+      "Endometrial Cancer",
+      "TNBC, Triple Negative Breast Cancer",
+      "Small Cell Lung Cancer (SCLC )",
+      "Head &Amp; Neck Squamous Cell Carcinoma (HNSCC)",
+      "Esophageal Squamous Cell Carcinoma (ESCC)"
+    ],
+    "keywords": [
+      "Castration-resistant prostate cancer (CRPC)",
+      "colorectal cancer (CRC)",
+      "non-small-cell lung cancer (NSCLC)",
+      "small-cell lung cancer (SCLC)",
+      "head and neck squamous cell carcinoma (HNSCC)",
+      "ovarian cancer",
+      "cervical cancer",
+      "endometrial cancer",
+      "triple negative breast cancer (TNBC)",
+      "esophageal squamous cell carcinoma (ESCC)",
+      "B7-H3",
+      "177Lu",
+      "radiotheranostics",
+      "radioligand therapy",
+      "radioimmunotherapy",
+      "monoclonal antibody",
+      "metastatic solid tumors"
+    ],
+    "study_type": "INTERVENTIONAL",
+    "phase": [
+      "PHASE1",
+      "PHASE2"
+    ],
+    "enrollment": 61
+  },
+  {
+    "nct_id": "NCT07798778",
+    "title": "Clinical Evaluation of SRT-017 in Patients With PSMA-Positive Metastatic Castration-Resistant Prostate Cancer",
+    "official_title": "To Evaluate the Safety, Tolerability, Radiation Dosimetry, Pharmacokinetics, and Preliminary Antitumor Efficacy of SRT-017 in Patients With PSMA-Positive Metastatic Castration-Resistant Prostate Cancer (mCRPC)",
+    "status": "RECRUITING",
+    "conditions": [
+      "Metastatic Castration-Resistant Prostate Cancer"
+    ],
+    "keywords": [
+      "Metastatic Castration-Resistant Prostate Cancer",
+      "PSMA",
+      "Radioligand Therapy"
+    ],
+    "study_type": "INTERVENTIONAL",
+    "phase": [
+      "EARLY_PHASE1"
+    ],
+    "enrollment": 18
+  },
+  {
+    "nct_id": "NCT06835244",
+    "title": "Diagnostic Performance of PET/CT-PSMA in Patients With Non-prostatic PSMA-expressing Neoplasms",
+    "official_title": "Diagnostic Performance of PET/CT-PSMA in Patients With Non-prostatic PSMA-expressing Neoplasms: A Monocentric Observational Experience",
+    "status": "ENROLLING_BY_INVITATION",
+    "conditions": [
+      "PSMA Positive Tumors or Tumor Tissues",
+      "Cancer"
+    ],
+    "keywords": [
+      "PSMA PET/CT",
+      "PSMA expressing tumors"
+    ],
+    "study_type": "OBSERVATIONAL",
+    "phase": [],
+    "enrollment": 1000
+  },
+  {
+    "nct_id": "NCT07310355",
+    "title": "68Ga-PSMA-0057 and 177Lu-PSMA-0057 in Patients With PSMA-Positive Metastatic Castration-Resistant Prostate Cancer",
+    "official_title": "A Phase I/II, Single-Arm, Open-Label, Dose-Escalation and Expansion Study of 68Ga-PSMA-0057 and 177Lu-PSMA-0057 in Patients With PSMA-Positive Metastatic Castration-Resistant Prostate Cancer",
+    "status": "NOT_YET_RECRUITING",
+    "conditions": [
+      "Metastatic Castration-resistant Prostate Cancer (mCRPC)"
+    ],
+    "keywords": [],
+    "study_type": "INTERVENTIONAL",
+    "phase": [
+      "PHASE1",
+      "PHASE2"
+    ],
+    "enrollment": 49
+  },
+  {
+    "nct_id": "NCT05417594",
+    "title": "Study of AZD9574 as Monotherapy and in Combination With Anti-cancer Agents in Participants With Advanced Solid Malignancies",
+    "official_title": "A Modular Phase I/IIa, Open-label, Multi-centre Study to Assess the Safety, Tolerability, Pharmacokinetics, Pharmacodynamics and Preliminary Efficacy of Ascending Doses of AZD9574 as Monotherapy and in Combination With Anti-cancer Agents in Patients With Advanced Solid Malignancies (CERTIS1)",
+    "status": "RECRUITING",
+    "conditions": [
+      "Advanced Solid Malignancies"
+    ],
+    "keywords": [
+      "Poly ADP-ribose Polymerase inhibitor (PARPi)",
+      "Anti-tumour",
+      "Breast cancer",
+      "Ovarian cancer",
+      "Fallopian tube cancer",
+      "Prostate cancer",
+      "Pancreatic cancer",
+      "Soft tissue disease",
+      "Glioma",
+      "Astrocytoma",
+      "Oliogodendroglioma",
+      "Solid tumours"
+    ],
+    "study_type": "INTERVENTIONAL",
+    "phase": [
+      "PHASE1",
+      "PHASE2"
+    ],
+    "enrollment": 695
+  },
+  {
+    "nct_id": "NCT05230251",
+    "title": "Radioligand fOr locAl raDiorecurrent proStaTe cancER",
+    "official_title": "Radioligand fOr locAl raDiorecurrent proStaTe cancER",
+    "status": "COMPLETED",
+    "conditions": [
+      "Prostate Cancer"
+    ],
+    "keywords": [],
+    "study_type": "INTERVENTIONAL",
+    "phase": [
+      "PHASE1",
+      "PHASE2"
+    ],
+    "enrollment": 3
+  },
+  {
+    "nct_id": "NCT04647526",
+    "title": "Study Evaluating mCRPC Treatment Using PSMA [Lu-177]-PNT2002 Therapy After Second-line Hormonal Treatment",
+    "official_title": "A Phase 3, Open-Label, Randomized Study Evaluating Metastatic Castrate Resistant Prostate Cancer Treatment Using PSMA [Lu-177]-PNT2002 Therapy After Second-line Hormonal Treatment (SPLASH)",
+    "status": "ACTIVE_NOT_RECRUITING",
+    "conditions": [
+      "Metastatic Castration-Resistant Prostate Cancer"
+    ],
+    "keywords": [
+      "PSMA",
+      "mCRPC",
+      "Prostate cancer",
+      "177Lu-PSMA",
+      "radioligand therapy",
+      "PSMA-I&T",
+      "SPLASH"
+    ],
+    "study_type": "INTERVENTIONAL",
+    "phase": [
+      "PHASE3"
+    ],
+    "enrollment": 455
+  },
+  {
+    "nct_id": "NCT05983198",
+    "title": "Phase I/II Study of [225Ac]Ac-PSMA-R2 in PSMA-positive Prostate Cancer, With/Without Prior 177Lu-PSMA RLT",
+    "official_title": "SatisfACtion: Phase I/II, Open-label, Multi-center Study of [225Ac]Ac-PSMA-R2 in Men With mHSPC and Heavily Pre-treated PSMA-positive mCRPC, With/Without Prior 177Lu-labelled PSMA-targeted Radioligand Therapy",
+    "status": "ACTIVE_NOT_RECRUITING",
+    "conditions": [
+      "Prostate Cancer"
+    ],
+    "keywords": [
+      "225Ac-PSMA-R2",
+      "dose limiting toxicity",
+      "DLT",
+      "Escalation with Overdose Control",
+      "EWOC",
+      "pre- and post-177Lu-PSMA-RLT"
+    ],
+    "study_type": "INTERVENTIONAL",
+    "phase": [
+      "PHASE1"
+    ],
+    "enrollment": 33
+  },
+  {
+    "nct_id": "NCT04000776",
+    "title": "3TMPO (Triple-Tracer Strategy Against Metastatic Prostate Cancer",
+    "official_title": "Triple-tracer Molecular Imaging Using 18F-FDG, 68Ga-PSMA and 68Ga-OCTREOTATE to Characterize Metastatic Castration-resistant Prostate Cancer (mCRPC) and Evaluate Eligibility for Radionuclide Therapies",
+    "status": "COMPLETED",
+    "conditions": [
+      "Metastatic Castration-resistant Prostate Cancer"
+    ],
+    "keywords": [],
+    "study_type": "OBSERVATIONAL",
+    "phase": [],
+    "enrollment": 100
+  },
+  {
+    "nct_id": "NCT05670106",
+    "title": "A Study to Evaluate the Efficacy, Safety, Pharmacokinetics and Dosimetry of [177Lu]Lu-PSMA-617 in Chinese Adult Male Patients With Progressive PSMA-Positive mCRPC",
+    "official_title": "A Prospective, Open-label, Multi-center, Single-arm, Phase II Study to Evaluate the Efficacy, Safety, Pharmacokinetics and Dosimetry of [177Lu]Lu-PSMA-617 in Chinese Adult Male Patients With Progressive PSMA-Positive Metastatic Castration-Resistant Prostate Cancer (mCRPC)",
+    "status": "COMPLETED",
+    "conditions": [
+      "Metastatic Castration-Resistant Prostate Cancer (mCRPC)"
+    ],
+    "keywords": [
+      "Chinese adult male population",
+      "therapeutic agent lutetium (177Lu) vipivotide tetraxetan",
+      "AAA617",
+      "[177Lu]Lu-PSMA-617",
+      "radiolabeled compound gallium (68Ga) gozetotide",
+      "[68Ga]Ga-PSMA-11",
+      "Progressive PSMA-Positive Metastatic Castration-Resistant Prostate Cancer",
+      "Overall Response Rate",
+      "ORR",
+      "Prostate-specific Membrane Antigen",
+      "PSMA",
+      "Taxane",
+      "Androgen Receptor Pathway Inhibitor",
+      "ARPI"
+    ],
+    "study_type": "INTERVENTIONAL",
+    "phase": [
+      "PHASE2"
+    ],
+    "enrollment": 62
+  },
+  {
+    "nct_id": "NCT05939414",
+    "title": "An Open-label Study Comparing Lutetium (177Lu) Vipivotide Tetraxetan Versus Observation in PSMA Positive OMPC.",
+    "official_title": "An International, Prospective, Open-label, Multi-center, Randomized Phase III Study Comparing Lutetium (177Lu) Vipivotide Tetraxetan (AAA617) Versus Observation to Delay Castration or Disease Recurrence in Adult Male Patients With Prostate-specific Membrane Antigen (PSMA) Positive Oligometastatic Prostate Cancer (OMPC)",
+    "status": "RECRUITING",
+    "conditions": [
+      "Oligometastatic Prostate Cancer (OMPC)"
+    ],
+    "keywords": [
+      "Lutetium (177Lu) vipivotide tetraxetan",
+      "Oligometastatic Prostate Cancer (OMPC)",
+      "Metastasis Free Survival (MFS)",
+      "gallium (68Ga) gozetotide",
+      "piflufolastat (18F)",
+      "prostate-specific membrane antigen (PSMA)",
+      "Delay Castration",
+      "Stereotactic Body Radiation Therapy (SBRT)",
+      "metastasis-directed therapy",
+      "Androgen Deprivation Therapy (ADT)-free survival."
+    ],
+    "study_type": "INTERVENTIONAL",
+    "phase": [
+      "PHASE3"
+    ],
+    "enrollment": 450
+  },
+  {
+    "nct_id": "NCT06377683",
+    "title": "Clinical Evaluation of 177Lu-DansyI-PSMA (LNC1011) in Patients With Metastatic Castration-Resistant Prostate Cancer",
+    "official_title": "An Open-Label, Non-Randomized, Single-Center, Investigator-Initiated Trial to Determine the Safety, Dosimetry, and Preliminary Effectiveness of 177Lu-Dansyl-PSMA in Patients With Metastatic Castration-Resistant Prostate Cancer",
+    "status": "COMPLETED",
+    "conditions": [
+      "Metastatic Castration-resistant Prostate Cancer, mCRPC"
+    ],
+    "keywords": [
+      "mCRPC",
+      "radioligand therapy",
+      "PSMA",
+      "177Lu-DansyI-PSMA"
+    ],
+    "study_type": "INTERVENTIONAL",
+    "phase": [
+      "PHASE1"
+    ],
+    "enrollment": 8
+  },
+  {
+    "nct_id": "NCT03516045",
+    "title": "A Study of 18F-AlF-NOTA-Neurotensin PET/CT for Imaging Prostate Cancer",
+    "official_title": "A Study of 18F-AlF-NOTA-Neurotensin PET/CT for Imaging Prostate Cancer",
+    "status": "UNKNOWN",
+    "conditions": [
+      "Prostate Cancer"
+    ],
+    "keywords": [
+      "18F-AlF-NOTA-neurotensin"
+    ],
+    "study_type": "INTERVENTIONAL",
+    "phase": [
+      "PHASE1",
+      "PHASE2"
+    ],
+    "enrollment": 65
+  },
+  {
+    "nct_id": "NCT06872619",
+    "title": "RegisterPROS - A Registry for Prostate Cancers",
+    "official_title": "A Registry for Prostate Cancers",
+    "status": "ENROLLING_BY_INVITATION",
+    "conditions": [
+      "Prostate Cancer (Adenocarcinoma)",
+      "Prostate Biopsy",
+      "Prostatectomy",
+      "Radioligand",
+      "Chemotherapy",
+      "Androgen Deprivation Therapy",
+      "PSA"
+    ],
+    "keywords": [],
+    "study_type": "OBSERVATIONAL",
+    "phase": [],
+    "enrollment": 1000
+  },
+  {
+    "nct_id": "NCT06641219",
+    "title": "Clinical Evaluation of [177Lu]Lu-BQ7876 for Targeting of Prostate-Specific Membrane Antigen",
+    "official_title": "Clinical Evaluation of Lutetium-177 Labeled BQ7876 for Targeting of Prostate-Specific Membrane Antigen",
+    "status": "COMPLETED",
+    "conditions": [
+      "Prostate Cancers"
+    ],
+    "keywords": [
+      "Prostate-Specific Membrane Antigen",
+      "Prostate Cancers",
+      "[177Lu]Lu-BQ7876",
+      "Radioligand Therapy"
+    ],
+    "study_type": "INTERVENTIONAL",
+    "phase": [
+      "PHASE1"
+    ],
+    "enrollment": 7
+  },
+  {
+    "nct_id": "NCT04225910",
+    "title": "Clinical Trial of Ac225-PSMA Radioligand Therapy of Metastatic Castration-resistant Prostate Cancer",
+    "official_title": "Prospective Pilot Clinical Trial of Ac225-PSMA Radioligand Therapy of Metastatic Castration-resistant Prostate Cancer",
+    "status": "UNKNOWN",
+    "conditions": [
+      "Metastatic Castration-resistant Prostate Cancer"
+    ],
+    "keywords": [
+      "mCRPC, PSMA radioligand therapy, efficacy, safety"
+    ],
+    "study_type": "INTERVENTIONAL",
+    "phase": [
+      "EARLY_PHASE1"
+    ],
+    "enrollment": 20
+  },
+  {
+    "nct_id": "NCT04655365",
+    "title": "Detecting Metastases by PyL PET/CT in Subjects Starting Enzalutamide for Untreated Castration Resistant Prostate Cancer.",
+    "official_title": "Detection and Monitoring of Metastasis by 18F-DCFPyL PET/CT in Subjects Starting Enzalutamide for Untreated Castration Resistant Prostate Cancer and Negative, Equivocal, or Oligometastatic Disease on Conventional Imaging (PROSTEP-002)",
+    "status": "ACTIVE_NOT_RECRUITING",
+    "conditions": [
+      "Prostate Cancer"
+    ],
+    "keywords": [
+      "Untreated Castration Resistant Prostate Cancer",
+      "18F-DCFPyL",
+      "Enzalutamide"
+    ],
+    "study_type": "INTERVENTIONAL",
+    "phase": [
+      "PHASE2"
+    ],
+    "enrollment": 50
+  },
+  {
+    "nct_id": "NCT06600802",
+    "title": "Intrinsic Validity of Molecular Marker(s) Detection on Tissular Tumoral DNA to Predict the Efficacy of 177Lutetium-PSMA-617 (Lu-PSMA) Treatment for Castration-resistant Metastatic Prostate Cancer",
+    "official_title": "Intrinsic Validity of Molecular Marker(s) Detection on Tissular Tumoral DNA to Predict the Efficacy of 177Lutetium-PSMA-617 (Lu-PSMA) Treatment for Castration-resistant Metastatic Prostate Cancer (PSMA-PRED)",
+    "status": "RECRUITING",
+    "conditions": [
+      "Castration-resistant Metastatic Prostate Cancer",
+      "Treated by 177Lutetium-PSMA-617 (Lu-PSMA)"
+    ],
+    "keywords": [
+      "mCRPC",
+      "Lu-PSMA",
+      "biomarkers",
+      "response",
+      "prediction"
+    ],
+    "study_type": "INTERVENTIONAL",
+    "phase": [
+      "NA"
+    ],
+    "enrollment": 120
+  },
+  {
+    "nct_id": "NCT04085991",
+    "title": "Two TraCer PositROn EmiSSion Tomography ComBination for Efficacy EstimatiOn of Prostate Specific Membrane Antigen Radioligand Therapy in Patients With Metastatic Prostate Cancer",
+    "official_title": "Two TraCer PositROn EmiSSion Tomography ComBination for Efficacy EstimatiOn of Prostate Specific Membrane Antigen Radioligand Therapy in Patients With Metastatic Prostate Cancer",
+    "status": "TERMINATED",
+    "conditions": [
+      "Prostate Cancer",
+      "Prostate Adenocarcinoma",
+      "Prostatic Neoplasms",
+      "Metastatic Prostate Cancer",
+      "Metastatic Prostatic Adenocarcinoma",
+      "Metastatic Prostate Carcinoma in the Soft Tissue"
+    ],
+    "keywords": [
+      "Radioligand therapy",
+      "PSMA",
+      "PSMA therapy",
+      "1095"
+    ],
+    "study_type": "INTERVENTIONAL",
+    "phase": [
+      "PHASE2"
+    ],
+    "enrollment": 11
+  },
+  {
+    "nct_id": "NCT06655064",
+    "title": "Registry to Evaluate Long-Term Outcomes in Patients Who Undergo 68-Ga-PSMA-11 PET/CT Imaging Evaluations",
+    "official_title": "Prospective Observational Multicenter Registry Study to Assess the Impact & Long-Term Outcomes of 68Ga-PSMA-11 PET/CT Imaging Evaluations for Patients With Prostate Cancer (Newly Diagnosed, Suspected Recurrence P or Are Candidates for Radioligand Therapy)",
+    "status": "TERMINATED",
+    "conditions": [
+      "Prostate Cancer (Adenocarcinoma)"
+    ],
+    "keywords": [
+      "PSMA",
+      "Prostate Cancer"
+    ],
+    "study_type": "OBSERVATIONAL",
+    "phase": [],
+    "enrollment": 120
+  },
+  {
+    "nct_id": "NCT07656337",
+    "title": "Effects of Direct Artery Injection on Prostate Cancer Drug Delivery and Tumor Uptake: Imaging-Based Prediction of Treatment Effectiveness",
+    "official_title": "Impact of Intra-Arterial PSMA Injection on Distribution and Tumor Uptake: Texture Analysis and Dose Radicality Prediction in Prostate Cancer",
+    "status": "NOT_YET_RECRUITING",
+    "conditions": [
+      "Prostate Cancer",
+      "Prostate Adenocarcinoma"
+    ],
+    "keywords": [
+      "Prostate cancer",
+      "Intraarterial PSMA injection",
+      "Texture analysis",
+      "Dose radicality prediction"
+    ],
+    "study_type": "INTERVENTIONAL",
+    "phase": [
+      "NA"
+    ],
+    "enrollment": 10
+  },
+  {
+    "nct_id": "NCT06050239",
+    "title": "Study of 177Lu-PSMA-0057 in Metastatic Prostate Cancer",
+    "official_title": "Study of 177Lu-PSMA-0057 in Metastatic Prostate Cancer",
+    "status": "UNKNOWN",
+    "conditions": [
+      "Metastatic Prostate Cancer"
+    ],
+    "keywords": [],
+    "study_type": "INTERVENTIONAL",
+    "phase": [
+      "EARLY_PHASE1"
+    ],
+    "enrollment": 10
+  }
+]
