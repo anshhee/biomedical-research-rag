@@ -1,0 +1,102 @@
+[
+    {
+        "id": 1,
+        "question": "What is PSMA-targeted radioligand therapy used for in prostate cancer?",
+        "category": "treatment"
+    },
+    {
+        "id": 2,
+        "question": "What is the role of 177Lu-PSMA-617 in prostate cancer treatment?",
+        "category": "treatment"
+    },
+    {
+        "id": 3,
+        "question": "What is the role of 225Ac-PSMA in prostate cancer?",
+        "category": "treatment"
+    },
+    {
+        "id": 4,
+        "question": "How do PSMA-targeted radioligands work against prostate cancer?",
+        "category": "mechanism"
+    },
+    {
+        "id": 5,
+        "question": "Why is PSMA useful as a target for radioligand therapy?",
+        "category": "mechanism"
+    },
+    {
+        "id": 6,
+        "question": "What prostate cancer patients have been studied with PSMA-targeted radioligand therapy?",
+        "category": "clinical"
+    },
+    {
+        "id": 7,
+        "question": "What evidence exists for PSMA-targeted radioligand therapy in metastatic castration-resistant prostate cancer?",
+        "category": "clinical"
+    },
+    {
+        "id": 8,
+        "question": "What are the reported safety considerations of PSMA-targeted radioligand therapy?",
+        "category": "clinical"
+    },
+    {
+        "id": 9,
+        "question": "What are the potential benefits of PSMA-targeted radiopharmaceuticals?",
+        "category": "clinical"
+    },
+    {
+        "id": 10,
+        "question": "What is the role of PSMA PET imaging in prostate cancer?",
+        "category": "imaging"
+    },
+    {
+        "id": 11,
+        "question": "Which PSMA-targeted radiopharmaceuticals have been used for prostate cancer imaging?",
+        "category": "imaging"
+    },
+    {
+        "id": 12,
+        "question": "How can PSMA imaging help guide prostate cancer treatment?",
+        "category": "imaging"
+    },
+    {
+        "id": 13,
+        "question": "What pharmacokinetic properties of PSMA-targeted radioligands have been studied?",
+        "category": "mechanism"
+    },
+    {
+        "id": 14,
+        "question": "What is known about the binding affinity and specificity of PSMA-targeted radioligands?",
+        "category": "mechanism"
+    },
+    {
+        "id": 15,
+        "question": "What clinical trials have investigated PSMA-targeted radioligand therapies?",
+        "category": "clinical_trials"
+    },
+    {
+        "id": 16,
+        "question": "What types of PSMA-targeted therapies are being investigated besides radioligand therapy?",
+        "category": "theranostics"
+    },
+    {
+        "id": 17,
+        "question": "What is the relationship between PSMA-targeted imaging and PSMA-targeted therapy?",
+        "category": "theranostics"
+    },
+    {
+        "id": 18,
+        "question": "What factors may affect the future clinical use of PSMA-targeted radioligand therapy?",
+        "category": "future_research"
+    },
+    {
+        "id": 19,
+        "question": "What evidence is available about PSMA-targeted radioligand therapy in cancers other than prostate cancer?",
+        "category": "out_of_primary_scope"
+    },
+    {
+        "id": 20,
+        "question": "What is the role of chemotherapy in treating bacterial infections?",
+        "category": "out_of_scope"
+    }
+]
