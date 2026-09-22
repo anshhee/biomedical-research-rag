@@ -6,7 +6,7 @@ Project 0 is a public biomedical research and clinical-trials intelligence platf
 
 ## Current Status
 
-**Phase 4 — Structured database**  
+**Phase 6 — Hybrid retrieval / querying**  
 Project scaffold, virtual environment, and repository hygiene are in place. No application code has been written yet.
 
 ## Roadmap
