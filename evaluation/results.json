@@ -1,0 +1,542 @@
+[
+    {
+        "id": 1,
+        "question": "What is PSMA-targeted radioligand therapy used for in prostate cancer?",
+        "category": "treatment",
+        "contexts": [
+            "s study suggests that PSMA-targeted radioligand therapy is at least as effective as other treatments for advanced prostate cancer, with potential benefits in terms of toxicity, duration, and overall cost.",
+            "patients with advanced prostate cancer. The findings indicate promising outcomes regarding the safety and efficacy of PSMA-targeted radiopharmaceuticals in clinical settings. The specific accumulation of these agents in prostate tumor lesions suggests their potential for various applications, including imaging and therapy. This research underscores the promise of radiopharmaceuticals targeting PSMA in advancing the diagnosis and treatment of prostate cancer. These agents improve diagnostic accuracy and patients' outcomes by enhancing imaging capabilities and enabling personalized treatment strategies.",
+            "ptake and localization at the target site while minimizing the retention in non-target tissues. The primary aim of this study is to evaluate the potential of low-molecular-weight PSMA inhibitors labeled with radioisotopes as theranostic agents for prostate cancer. This includes assessing their efficacy in targeted imaging and therapy and understanding their pharmacokinetic properties and mechanisms of action. This study is a literature review focusing on in vitro and clinical research data. The in vitro studies utilize PSMA-targeted radioligands labeled with radioisotopes to assess their binding affinity, specificity, and internalization in prostate cancer cell lines. Additionally, the clinical studies evaluate the safety, effectiveness, and biodistribution of radiolabeled PSMA ligands in patients with advanced prostate cancer. The findings indicate promising outcomes regarding the safety and efficacy of PSMA-targeted radiopharmaceuticals in clinical settings. The specific accumulation",
+            "re PSMA positive. Over the last decade, several PSMA-based PET radiopharmaceuticals have demonstrated superior sensitivities and specificities compared to traditional imaging methods. These outcomes have been demonstrated by several large clinical trials. As the data emerges, these diagnostics are being integrated into standard of care protocol to facilitate nuanced identification of malignant lesions. PSMA is also being targeted through several therapeutics, including radioligands and immunotherapies such as CAR-T, BiTEs, and ADCs. This review will discuss the landscape of PSMA-based theranostics in the context of prostate cancer.",
+            "ation. Conclusion PSMA-targeted radioligand therapy was infrequently used to treat different non-prostatic cancer types in various target organs. These pioneering efforts indicate that 177 Lu-PSMA can be used to treat non-prostatic cancer with PSMA expression. The toxicity of such treatment was low, and the outcome was relatively good."
+        ],
+        "answer": "Based on the provided context, PSMA-targeted radioligand therapy (and related PSMA-targeted radiopharmaceuticals) is used for:\n\n* **Treatment:** Serving as an effective treatment option for patients with advanced prostate cancer, offering potential benefits in toxicity, duration, and overall cost.\n* **Targeted Imaging and Theranostics:** Enhancing imaging capabilities to facilitate the nuanced identification of malignant lesions, improving diagnostic accuracy, and enabling personalized treatment strategies.",
+        "retrieved_ids": [
+            "40647544_2",
+            "39770150_2",
+            "39770150_1",
+            "40868092_1",
+            "38821587_2"
+        ],
+        "distances": [
+            0.23078760504722595,
+            0.23545393347740173,
+            0.24010412395000458,
+            0.25047567486763,
+            0.26358771324157715
+        ]
+    },
+    {
+        "id": 2,
+        "question": "What is the role of 177Lu-PSMA-617 in prostate cancer treatment?",
+        "category": "treatment",
+        "contexts": [
+            "cancer patients were treated with 177 Lu-PSMA-617, and the therapeutic response and safety of 177 Lu-PSMA-617 radioligand therapy were evaluated six months after the treatment. Additionally, molecular docking studies were also conducted to find the possible mechanism at the molecular level that causes the effectiveness of 177 Lu-PSMA-617 in prostate cancer.",
+            "ations for [177Lu]Lu-PSMA-617 are based on the TheraP and VISION clinical trials.. · Adequate patient selection using PSMA-ligand PET/CT is essential for beneficial outcomes.. · Response evaluation is based on imaging, PSA levels, and the patient's clinical condition.. · Karimzadeh A, Lehnert W, Koehler D et al. Overview of selected completed prospective studies on PSMA-targeted radioligand therapy with [177Lu]Lu-PSMA-617 in metastatic castration-resistant prostate cancer. Rofo 2025; 197: 1033-1042.",
+            ", and increased expression with androgen deprivation therapy. In 2015, 177 Lu-PSMA-617 was first introduced as a promising treatment option for castration-resistant prostate cancer, and 7 years later the results of the phase III VISION trial led to 177 Lu-PSMA-617 gaining FDA approval for the treatment of progressive castration-resistant prostate cancer. These results in combination with the inherent properties of 177 Lu-PSMA-617 have led to its current exploration as a promising treatment modality beyond progressive metastatic castration-resistant prostate cancer, and into the earlier phases of prostate cancer. This review paper aims to highlight the key phase III randomized controlled trials related to 177 Lu-PSMA-617 in all stages of prostate cancer, as well as bring attention to ongoing, earlier phase I/II trials incorporating 177 Lu-PSMA-617.",
+            "y. · Indications for [177Lu]Lu-PSMA-617 are based on the TheraP and VISION clinical trials.. · Adequate patient selection using PSMA-ligand PET/CT is essential for beneficial outcomes.. · Response evaluation is based on imaging, PSA levels, and the patient's clinical condition.. · Karimzadeh A, Lehnert W, Koehler D et al. Overview of selected completed prospective studies on PSMA-targeted radioligand therapy with [177Lu]Lu-PSMA-617 in metastatic castration-resistant prostate cancer. Rofo 2025; DOI 10.1055/a-2514-4523.",
+            " findings support the use of [ 177 Lu]Lu-PSMA for metastatic castration-resistant prostate cancer, demonstrating both safety profile and efficacy. The potential of this therapeutic approach warrants further investigative efforts to optimize treatment methodologies and improve the quality of patient care and the criteria for patient selection."
+        ],
+        "answer": "Based on the provided context, the role of 177Lu-PSMA-617 in prostate cancer treatment includes:\n\n* **FDA-Approved Radioligand Therapy:** It is an FDA-approved treatment option for progressive castration-resistant prostate cancer (following the phase III VISION trial).\n* **Treatment for Metastatic Castration-Resistant Prostate Cancer:** It is used as a PSMA-targeted radioligand therapy for metastatic castration-resistant prostate cancer, demonstrating both efficacy and a safety profile.\n* **Clinical Trial Indications:** Its treatment indications are based on the TheraP and VISION clinical trials.\n* **Expanded Potential:** Beyond progressive metastatic castration-resistant prostate cancer, it is currently being explored as a promising treatment modality for earlier phases of prostate cancer.",
+        "retrieved_ids": [
+            "39136842_1",
+            "39842443_2",
+            "39692806_1",
+            "40769164_2",
+            "40737767_2"
+        ],
+        "distances": [
+            0.2865552604198456,
+            0.3354201912879944,
+            0.3368944823741913,
+            0.34096601605415344,
+            0.35359254479408264
+        ]
+    },
+    {
+        "id": 3,
+        "question": "What is the role of 225Ac-PSMA in prostate cancer?",
+        "category": "treatment",
+        "contexts": [
+            " However, limited availability, high production costs, and the lack of large-scale, randomised trials hinder widespread clinical adoption. Future directions include combination protocols, improved radiopharmaceutical design, and trials evaluating its use in earlier disease stages. This review provides a comprehensive overview of the clinical aspects of [225Ac]Ac-PSMA RLT and its evolving role in advanced prostate cancer management.",
+            " cancer\", \"Biomarker\", \"Diagnosis\". We considered all available articles relevant to the topic of PSMA as a biomarker in early prostate cancer when developing this narrative review. Key articles assessing the biology of PSMA, as well as its use as a potential diagnostic and therapeutic target in early prostate cancer, were assessed. The role of PSMA PET as a potential diagnostic and risk stratification tool was assessed. The current use of antibody-drug conjugates and radioligand therapy targeting PSMA was assessed, along with any current evidence to support their use in early prostate cancer. PSMA is heavily expressed throughout the early stages of prostate cancer, and this has significant therapeutic implications. There is a growing body of evidence that shows PSMA PET can play a role in the diagnosis, risk stratification, and prognostication of localised prostate cancer. PSMA-targeted therapies such as Lu-177 currently do not have any proven benefit in treating early prostate cancer",
+            "Title: [ 225 Ac]Ac-PSMA for the treatment of metastatic castration-resistant prostate cancer: A systematic review and meta-analysis. Abstract: Background Approximately 10%-20% of prostate cancers progress to metastatic and castration-resistant forms (mCRPC). Radioligand (RLT) therapy with [ 177 Lu]Lu-prostate-specific membrane antigen (PSMA) is an approved treatment for metastasized mCRPC. Moreover, Actinium-225 ( 225 Ac), an alpha-emitter isotope, has also been used to label PSMA and, recently, to treat mCRPC patients with encouraging results. However, robust clinical data on [ 225 Ac]Ac-PSMA therapy and its comparison with [ 177 Lu]Lu-PSMA are still limited. Our aim was to evaluate the role of [ 225 Ac]Ac-PSMA in treating mCRPC and compare it with conventional [ 177 Lu]Lu-PSMA therapy. Methods A systematic search was performed in PubMed, Web of Science, Scopus and the Cochrane Register of Controlled Trials from June 2023 to January 2024. This work was conducted in accordance with PRI",
+            "studies reduced tumor uptake from 7.12 ± 0.27 to 0.93 ± 0.53 %ID/g. Conclusion Radiolabeled THP-HPG-PSMA demonstrates improved pharmacokinetics, enhanced tumor uptake, prolonged tumor retention, and favorable tumor-to-blood ratios, indicating strong potential for PSMA-targeted prostate cancer applications.",
+            "ptake and localization at the target site while minimizing the retention in non-target tissues. The primary aim of this study is to evaluate the potential of low-molecular-weight PSMA inhibitors labeled with radioisotopes as theranostic agents for prostate cancer. This includes assessing their efficacy in targeted imaging and therapy and understanding their pharmacokinetic properties and mechanisms of action. This study is a literature review focusing on in vitro and clinical research data. The in vitro studies utilize PSMA-targeted radioligands labeled with radioisotopes to assess their binding affinity, specificity, and internalization in prostate cancer cell lines. Additionally, the clinical studies evaluate the safety, effectiveness, and biodistribution of radiolabeled PSMA ligands in patients with advanced prostate cancer. The findings indicate promising outcomes regarding the safety and efficacy of PSMA-targeted radiopharmaceuticals in clinical settings. The specific accumulation"
+        ],
+        "answer": "Based on the provided context, the role of [225Ac]Ac-PSMA in prostate cancer includes the following:\n\n* **Treatment of Advanced/Metastatic Disease:** [225Ac]Ac-PSMA uses Actinium-225 (an alpha-emitter isotope) to label PSMA for radioligand therapy (RLT). It is used to treat patients with metastatic castration-resistant prostate cancer (mCRPC) with encouraging results, playing an evolving role in advanced prostate cancer management.\n* **Current Clinical Status:** While it shows promise as a treatment option for mCRPC, its widespread clinical adoption is currently hindered by limited availability, high production costs, and a lack of large-scale, randomized trials.",
+        "retrieved_ids": [
+            "40872606_2",
+            "41800499_1",
+            "39552586_0",
+            "42683206_2",
+            "39770150_1"
+        ],
+        "distances": [
+            0.31000933051109314,
+            0.3870032727718353,
+            0.3877812623977661,
+            0.39352673292160034,
+            0.39417821168899536
+        ]
+    },
+    {
+        "id": 4,
+        "question": "How do PSMA-targeted radioligands work against prostate cancer?",
+        "category": "mechanism",
+        "contexts": [
+            "s study suggests that PSMA-targeted radioligand therapy is at least as effective as other treatments for advanced prostate cancer, with potential benefits in terms of toxicity, duration, and overall cost.",
+            "patients with advanced prostate cancer. The findings indicate promising outcomes regarding the safety and efficacy of PSMA-targeted radiopharmaceuticals in clinical settings. The specific accumulation of these agents in prostate tumor lesions suggests their potential for various applications, including imaging and therapy. This research underscores the promise of radiopharmaceuticals targeting PSMA in advancing the diagnosis and treatment of prostate cancer. These agents improve diagnostic accuracy and patients' outcomes by enhancing imaging capabilities and enabling personalized treatment strategies.",
+            "ptake and localization at the target site while minimizing the retention in non-target tissues. The primary aim of this study is to evaluate the potential of low-molecular-weight PSMA inhibitors labeled with radioisotopes as theranostic agents for prostate cancer. This includes assessing their efficacy in targeted imaging and therapy and understanding their pharmacokinetic properties and mechanisms of action. This study is a literature review focusing on in vitro and clinical research data. The in vitro studies utilize PSMA-targeted radioligands labeled with radioisotopes to assess their binding affinity, specificity, and internalization in prostate cancer cell lines. Additionally, the clinical studies evaluate the safety, effectiveness, and biodistribution of radiolabeled PSMA ligands in patients with advanced prostate cancer. The findings indicate promising outcomes regarding the safety and efficacy of PSMA-targeted radiopharmaceuticals in clinical settings. The specific accumulation",
+            "re PSMA positive. Over the last decade, several PSMA-based PET radiopharmaceuticals have demonstrated superior sensitivities and specificities compared to traditional imaging methods. These outcomes have been demonstrated by several large clinical trials. As the data emerges, these diagnostics are being integrated into standard of care protocol to facilitate nuanced identification of malignant lesions. PSMA is also being targeted through several therapeutics, including radioligands and immunotherapies such as CAR-T, BiTEs, and ADCs. This review will discuss the landscape of PSMA-based theranostics in the context of prostate cancer.",
+            "ole of PSMA in tumor progression, highlighting its involvement in neoangiogenesis, metabolic reprogramming, and therapeutic vulnerabilities. We critically examine the latest advancements in PSMA-targeted treatment strategies, including radioligand therapy (e.g., 177 Lu-PSMA-617), antibody-drug conjugates, bispecific T-cell engagers, and small-molecule PSMA inhibitors. Clinical studies have demonstrated that PSMA-directed therapies can significantly reduce prostate-specific antigen (PSA) levels, improve radiographic progression-free survival (rPFS), and enhance patient-reported quality of life. However, challenges such as heterogeneous PSMA expression and acquired resistance necessitate further investigation. Ongoing clinical trials are actively exploring combinatory approaches, integrating PSMA-targeted therapy with radiotherapy, chemotherapy, and immunotherapy to optimize therapeutic efficacy. This review underscores the promise of PSMA-targeted strategies in advancing precision medic"
+        ],
+        "answer": "Based on the provided context, PSMA-targeted radioligands work against prostate cancer through the following mechanisms:\n\n* **Targeted Binding and Internalization:** They utilize radioisotopes labeled onto PSMA inhibitors/ligands that demonstrate high binding affinity, specificity, and internalization within prostate cancer cells.\n* **Specific Accumulation:** They selectively accumulate, localize, and are taken up directly at the target site (prostate tumor lesions).\n* **Minimizing Non-Target Exposure:** They deliver therapy while minimizing retention in non-target tissues.",
+        "retrieved_ids": [
+            "40647544_2",
+            "39770150_2",
+            "39770150_1",
+            "40868092_1",
+            "40466338_1"
+        ],
+        "distances": [
+            0.2404005527496338,
+            0.25129130482673645,
+            0.2634698748588562,
+            0.2761125862598419,
+            0.2803611755371094
+        ]
+    },
+    {
+        "id": 5,
+        "question": "Why is PSMA useful as a target for radioligand therapy?",
+        "category": "mechanism",
+        "contexts": [
+            " Antigen, PSMA, PSMA radioligand therapy",
+            "ation. Conclusion PSMA-targeted radioligand therapy was infrequently used to treat different non-prostatic cancer types in various target organs. These pioneering efforts indicate that 177 Lu-PSMA can be used to treat non-prostatic cancer with PSMA expression. The toxicity of such treatment was low, and the outcome was relatively good.",
+            "ss PSMA and its potential as target for vasculature-directed therapeutic approaches, including radioligand therapy, fusion protein vaccination and CAR T-cell therapy.",
+            "entification of candidates for radionuclide therapy. Investigational agents, such as bombesin-based radiotracers, may address the shortcomings of treating prostate cancer with little to no PSMA expression.",
+            "s study suggests that PSMA-targeted radioligand therapy is at least as effective as other treatments for advanced prostate cancer, with potential benefits in terms of toxicity, duration, and overall cost."
+        ],
+        "answer": "Based on the provided context, PSMA is useful as a target for radioligand therapy because:\n\n* **Treating non-prostatic cancers:** It can be used to treat non-prostatic cancer types that express PSMA (e.g., using $^{177}\\text{Lu-PSMA}$), resulting in low toxicity and relatively good outcomes.\n* **Vasculature-directed therapy:** PSMA has potential as a target for vasculature-directed therapeutic approaches.\n* **Effectiveness in advanced prostate cancer:** PSMA-targeted radioligand therapy is at least as effective as other treatments for advanced prostate cancer, with potential benefits regarding toxicity, duration, and overall cost.",
+        "retrieved_ids": [
+            "NCT03490838_1",
+            "38821587_2",
+            "39551117_1",
+            "40427220_2",
+            "40647544_2"
+        ],
+        "distances": [
+            0.2997775971889496,
+            0.3051929771900177,
+            0.35410359501838684,
+            0.36062198877334595,
+            0.36378908157348633
+        ]
+    },
+    {
+        "id": 10,
+        "question": "What is the role of PSMA PET imaging in prostate cancer?",
+        "category": "imaging",
+        "contexts": [
+            "in cases of biochemical recurrence and further clarifying disease status among patients with conventional imaging based nonmetastatic castrate resistant prostate cancer and metastatic prostate cancer. Additionally, it has promising roles in selecting patients for radioligand therapy, monitoring treatment response, and guiding therapeutic decision-making. Summary PSMA PET/CT is currently a crucial imaging tool used at key stages of prostate cancer management, with ongoing research exploring its potential for additional clinical applications.",
+            "c castration-resistant prostate cancer. This review discusses the current clinical considerations of PSMA PET, including the various imaging agents available and how best to identify patients eligible for PSMA PET imaging and subsequent PSMA-targeted radioligand therapy. This review also examines opportunities to mitigate discordant findings, as well as considerations around the standardization of reporting of PSMA PET imaging, key gaps in the evidence base, and guidance around the use of PSMA PET in clinical and research settings.",
+            "Title: The Role of PSMA PET Imaging in Prostate Cancer: Current Applications and Future Directions. Abstract: Purpose of review Prostate-specific membrane antigen (PSMA)-targeted positron emission tomography (PET) imaging has revolutionized prostate cancer detection and management. This review aims to evaluate the latest advancements in PSMA PET imaging, assess its clinical applications in various disease stages, and compare it to conventional imaging techniques. We sought to determine how PSMA PET impacts clinical decision-making, treatment strategies, and patient outcomes, with a focus on its expanding role in precision oncology. Recent findings Recent studies have demonstrated that PSMA PET exhibits superior sensitivity and specificity in detecting prostate cancer metastases, particularly in cases of biochemical recurrence and early-stage disease. The advent of radiolabeled PSMA ligands, such as 68Ga-PSMA-11 and 18 F-DCFPyL, has led to improved diagnostic accuracy. Furthermore, PSMA",
+            "have shown promising results with some even providing better imaging results than 18F-fluorodeoxyglucose PET/CT, it is important to evaluate the indications where PSMA PET/CT can be utilized efficiently. We must also be mindful of the benign conditions where PSMA uptake can be observed while we analyze the scans. In this review, we have described the clinical exploration of PSMA-based PET/CT in the imaging of various cancers and potential therapeutic applications.",
+            "trategy. It improves detection of metastatic and recurrent disease, guides selection for systemic and PSMA-targeted therapies, and supports metastasis-directed treatment in oligometastatic settings, potentially delaying androgen-deprivation therapy and preserving quality of life. Additionally, PSMA-PET enhances intra-prostatic lesion delineation for focal therapies and radiotherapy planning. Limitations include reduced sensitivity for very small lesions, possible false positives, variability among tracers, and issues related to access and standardization. Conclusions PSMA-PET/CT is a cornerstone of precision imaging in PCa, enabling more individualized treatment decisions across the disease continuum. Ongoing studies will further define its long-term clinical impact and integration into routine care."
+        ],
+        "answer": "Based on the provided context, the role of PSMA PET imaging in prostate cancer includes:\n\n* **Detection and Diagnosis:** It improves the detection of metastatic, early-stage, and recurrent disease (particularly in cases of biochemical recurrence) and clarifies disease status in patients with conventional imaging-based nonmetastatic castrate-resistant prostate cancer and metastatic prostate cancer.\n* **Treatment Selection and Decision-Making:** It guides therapeutic decision-making and helps select eligible patients for systemic therapies and PSMA-targeted radioligand therapies, enabling more individualized treatment across the disease continuum.\n* **Treatment Planning and Support:** It enhances intra-prostatic lesion delineation for focal therapies and radiotherapy planning, and supports metastasis-directed treatment in oligometastatic settings (which can potentially delay androgen-deprivation therapy and preserve quality of life).\n* **Monitoring:** It serves a promising role in monitoring treatment response.",
+        "retrieved_ids": [
+            "40065665_1",
+            "40418317_1",
+            "40448740_0",
+            "42081703_1",
+            "42279380_1"
+        ],
+        "distances": [
+            0.2164076566696167,
+            0.24465468525886536,
+            0.24486124515533447,
+            0.2625580132007599,
+            0.2630014419555664
+        ]
+    },
+    {
+        "id": 11,
+        "question": "Which PSMA-targeted radiopharmaceuticals have been used for prostate cancer imaging?",
+        "category": "imaging",
+        "contexts": [
+            "patients with advanced prostate cancer. The findings indicate promising outcomes regarding the safety and efficacy of PSMA-targeted radiopharmaceuticals in clinical settings. The specific accumulation of these agents in prostate tumor lesions suggests their potential for various applications, including imaging and therapy. This research underscores the promise of radiopharmaceuticals targeting PSMA in advancing the diagnosis and treatment of prostate cancer. These agents improve diagnostic accuracy and patients' outcomes by enhancing imaging capabilities and enabling personalized treatment strategies.",
+            "re PSMA positive. Over the last decade, several PSMA-based PET radiopharmaceuticals have demonstrated superior sensitivities and specificities compared to traditional imaging methods. These outcomes have been demonstrated by several large clinical trials. As the data emerges, these diagnostics are being integrated into standard of care protocol to facilitate nuanced identification of malignant lesions. PSMA is also being targeted through several therapeutics, including radioligands and immunotherapies such as CAR-T, BiTEs, and ADCs. This review will discuss the landscape of PSMA-based theranostics in the context of prostate cancer.",
+            "ptake and localization at the target site while minimizing the retention in non-target tissues. The primary aim of this study is to evaluate the potential of low-molecular-weight PSMA inhibitors labeled with radioisotopes as theranostic agents for prostate cancer. This includes assessing their efficacy in targeted imaging and therapy and understanding their pharmacokinetic properties and mechanisms of action. This study is a literature review focusing on in vitro and clinical research data. The in vitro studies utilize PSMA-targeted radioligands labeled with radioisotopes to assess their binding affinity, specificity, and internalization in prostate cancer cell lines. Additionally, the clinical studies evaluate the safety, effectiveness, and biodistribution of radiolabeled PSMA ligands in patients with advanced prostate cancer. The findings indicate promising outcomes regarding the safety and efficacy of PSMA-targeted radiopharmaceuticals in clinical settings. The specific accumulation",
+            "ly in cases of biochemical recurrence and early-stage disease. The advent of radiolabeled PSMA ligands, such as 68Ga-PSMA-11 and 18 F-DCFPyL, has led to improved diagnostic accuracy. Furthermore, PSMA-targeted radioligand therapies (e.g., 177Lu-PSMA-617) show promising results in metastatic castration-resistant prostate cancer (mCRPC), offering a novel therapeutic avenue. Studies have also highlighted the role of PSMA PET in refining treatment plans, including guiding surgery and radiotherapy. PSMA PET imaging represents a paradigm shift in prostate cancer diagnostics, staging, and treatment monitoring. It has led to earlier and more accurate detection of metastases, significantly altering management strategies. The growing body of evidence supports its integration into standard-of-care protocols, with ongoing research focusing on optimizing its therapeutic applications. Future studies should explore cost-effectiveness, accessibility, and potential synergies with emerging systemic ther",
+            "Title: Imaging and therapy in prostate cancer using prostate specific membrane antigen radioligands. Abstract: Prostate specific membrane antigen (PSMA) directed PET imaging has rapidly transformed prostate cancer workup over the past decade and paved the way for a theranostic approach using 177Lu-labelled PSMA radioligand therapy (RLT). This review gives an overview of the underlying principles behind PSMA as a target; the current use of PSMA PET in prostate cancer imaging and benefits compared to conventional imaging; and therapeutic applications including optimisation of patient selection. It also explores the evidence base of PSMA PET for other indications not in routine clinical use and the future of PSMA-directed RLT."
+        ],
+        "answer": "Based on the provided context, the radiolabeled PSMA ligands specifically identified for prostate cancer imaging and diagnostic accuracy are:\n\n* **68Ga-PSMA-11**\n* **18 F-DCFPyL**",
+        "retrieved_ids": [
+            "39770150_2",
+            "40868092_1",
+            "39770150_1",
+            "40448740_1",
+            "38733571_0"
+        ],
+        "distances": [
+            0.20232102274894714,
+            0.2463054358959198,
+            0.24978722631931305,
+            0.26133695244789124,
+            0.28392118215560913
+        ]
+    },
+    {
+        "id": 12,
+        "question": "How can PSMA imaging help guide prostate cancer treatment?",
+        "category": "imaging",
+        "contexts": [
+            "in cases of biochemical recurrence and further clarifying disease status among patients with conventional imaging based nonmetastatic castrate resistant prostate cancer and metastatic prostate cancer. Additionally, it has promising roles in selecting patients for radioligand therapy, monitoring treatment response, and guiding therapeutic decision-making. Summary PSMA PET/CT is currently a crucial imaging tool used at key stages of prostate cancer management, with ongoing research exploring its potential for additional clinical applications.",
+            "patients with advanced prostate cancer. The findings indicate promising outcomes regarding the safety and efficacy of PSMA-targeted radiopharmaceuticals in clinical settings. The specific accumulation of these agents in prostate tumor lesions suggests their potential for various applications, including imaging and therapy. This research underscores the promise of radiopharmaceuticals targeting PSMA in advancing the diagnosis and treatment of prostate cancer. These agents improve diagnostic accuracy and patients' outcomes by enhancing imaging capabilities and enabling personalized treatment strategies.",
+            "trategy. It improves detection of metastatic and recurrent disease, guides selection for systemic and PSMA-targeted therapies, and supports metastasis-directed treatment in oligometastatic settings, potentially delaying androgen-deprivation therapy and preserving quality of life. Additionally, PSMA-PET enhances intra-prostatic lesion delineation for focal therapies and radiotherapy planning. Limitations include reduced sensitivity for very small lesions, possible false positives, variability among tracers, and issues related to access and standardization. Conclusions PSMA-PET/CT is a cornerstone of precision imaging in PCa, enabling more individualized treatment decisions across the disease continuum. Ongoing studies will further define its long-term clinical impact and integration into routine care.",
+            "c castration-resistant prostate cancer. This review discusses the current clinical considerations of PSMA PET, including the various imaging agents available and how best to identify patients eligible for PSMA PET imaging and subsequent PSMA-targeted radioligand therapy. This review also examines opportunities to mitigate discordant findings, as well as considerations around the standardization of reporting of PSMA PET imaging, key gaps in the evidence base, and guidance around the use of PSMA PET in clinical and research settings.",
+            ", including next-generation ligands with improved tumor uptake and altered clearance pathways, as well as the integration of artificial intelligence for imaging quantification, are poised to further refine patient selection, dosimetry, and treatment outcomes. This review highlights the evolution of PSMA-based imaging and therapy, discusses current clinical applications and limitations, and outlines future directions for optimizing theranostic strategies in prostate cancer care."
+        ],
+        "answer": "Based on the provided context, PSMA imaging helps guide prostate cancer treatment in the following ways:\n\n* **Clarifying Disease Status:** It helps clarify disease status in cases of biochemical recurrence, nonmetastatic castrate-resistant prostate cancer, and metastatic prostate cancer by improving the detection of recurrent and metastatic disease.\n* **Selecting Patients for Therapy:** It identifies and guides the selection of patients who are eligible for systemic, PSMA-targeted, and radioligand therapies.\n* **Treatment Planning and Delineation:** It enhances intra-prostatic lesion delineation to assist with radiotherapy planning and focal therapies.\n* **Supporting Metastasis-Directed Treatment:** In oligometastatic settings, it supports metastasis-directed treatment, which can potentially delay androgen-deprivation therapy and preserve the patient's quality of life.\n* **Monitoring and Personalizing Care:** It helps monitor treatment response, refine dosimetry, and enable individualized/personalized treatment strategies across the continuum of the disease.",
+        "retrieved_ids": [
+            "40065665_1",
+            "39770150_2",
+            "42279380_1",
+            "40418317_1",
+            "41595153_2"
+        ],
+        "distances": [
+            0.2320745587348938,
+            0.24534332752227783,
+            0.26721784472465515,
+            0.28740525245666504,
+            0.2881147265434265
+        ]
+    },
+    {
+        "id": 13,
+        "question": "What pharmacokinetic properties of PSMA-targeted radioligands have been studied?",
+        "category": "mechanism",
+        "contexts": [
+            "ptake and localization at the target site while minimizing the retention in non-target tissues. The primary aim of this study is to evaluate the potential of low-molecular-weight PSMA inhibitors labeled with radioisotopes as theranostic agents for prostate cancer. This includes assessing their efficacy in targeted imaging and therapy and understanding their pharmacokinetic properties and mechanisms of action. This study is a literature review focusing on in vitro and clinical research data. The in vitro studies utilize PSMA-targeted radioligands labeled with radioisotopes to assess their binding affinity, specificity, and internalization in prostate cancer cell lines. Additionally, the clinical studies evaluate the safety, effectiveness, and biodistribution of radiolabeled PSMA ligands in patients with advanced prostate cancer. The findings indicate promising outcomes regarding the safety and efficacy of PSMA-targeted radiopharmaceuticals in clinical settings. The specific accumulation",
+            "Title: [ 225 Ac]Ac-PSMA I&T: A Preclinical Investigation on the Fate of Decay Nuclides and Their Influence on Dosimetry of Salivary Glands and Kidneys. Abstract: α-therapy with 225 Ac-labeled radioligands targeting prostate-specific membrane antigen (PSMA) has emerged as a promising treatment option for advanced metastatic castration-resistant prostate cancer. Because of α-recoil, the progeny is released from the PSMA-targeted molecule and can undergo redistribution, contributing to off-target toxicity. Here, we report on biodistribution and dosimetry studies of [ 225 Ac]Ac-PSMA I&T performed in mice to investigate the pharmacokinetics of the radioligand compared with unbound progeny. Moreover, the cellular uptake and externalization kinetics of [ 225 Ac]Ac-PSMA I&T were compared with those of its 177 Lu-labeled analog. Methods: In vitro studies were performed on LNCaP and PC3 PIP cells. Biodistribution studies (performed 10 min to 7 d after injection) were conducted in LNCaP tumor-bea",
+            ". A first-in-human study further characterized the in vivo pharmacokinetics of [ 68 Ga]Ga-PSMA-HK9, revealing a trend toward higher tumor uptake compared with [ 68 Ga]Ga-PSMA-617. Therapeutically, [ 177 Lu]Lu-PSMA-HK9 demonstrated efficient cellular internalization and superior tumor inhibition compared with [ 177 Lu]Lu-PSMA-617, with acceptable safety profiles. These findings indicate the linker manipulation with β 3 -amino acid as an effective and promising strategy for optimizing the pharmacokinetics and pharmacodynamics performance of PSMA-targeted radioligands.",
+            "r physicochemical properties, imaging, and biodistribution by means of gallium and lutetium labeling to evaluate their pharmacokinetic properties, as well as their affinity and specificity for PSMA. The therapeutic effect of radioligands was systematically evaluated in [ 177 Lu]Lu-Flu-1, [ 177 Lu]Lu-BWD, [ 177 Lu]Lu-P4-BWD, and [ 177 Lu]Lu-P4-PND. All PSMA ligands were of chemical purity >95%. The final radiochemical purity of the radioligands was achieved up to 99%. The cell-based and imaging study results showed that BWD had a high affinity for PSMA (IC 50 = 35.86 ± 0.56) and was significantly superior to the other radioligands in terms of tumor uptake and retention. The biodistribution study further confirmed that the tumor uptake of [ 177 Lu]Lu-BWD (64.28 ± 12.46%ID/g) was significantly higher than that of other [ 177 Lu]Lu-radioligands at 4 h postinjection, including [ 177 Lu]Lu-PSMA-617 (47.64 ± 11.39%ID/g). The TRT results showed that a single injection of 7.4 MBq of [ 177 Lu]Lu",
+            "-117 and actinium-225, while reports exist about the use of radioligand immunotherapy. Meanwhile, ongoing trials examine the development of novel radionuclides as well as the evolution of the PSMA-targeted ligands. Expert opinion Currently, PSMA radioligand treatment of prostate cancer is approved in the metastatic stage of the disease. Meanwhile, a variety of trials exist about its possible role in less advanced stages. However, plenty of parameters should be addressed before these implementations, such as PSMA dosage, dosimetry issues, and its safety profile. A future well-designed study with proper patient selection is mandatory to further explore PSMA radioligand theranostics perspectives."
+        ],
+        "answer": "Based on the provided context, the pharmacokinetic properties of PSMA-targeted radioligands that have been studied include:\n\n* **Binding affinity and specificity** for PSMA\n* **Cellular uptake, internalization, and externalization kinetics**\n* **Biodistribution** (including accumulation and retention in target tumor tissues versus non-target tissues)\n* **Tumor uptake and retention**\n* **In vivo pharmacokinetics**, including comparing the pharmacokinetics of radioligands against unbound progeny (and the redistribution of decay progeny caused by α-recoil)",
+        "retrieved_ids": [
+            "39770150_1",
+            "41043997_0",
+            "41770202_1",
+            "40494649_1",
+            "39054909_1"
+        ],
+        "distances": [
+            0.27573350071907043,
+            0.3311452567577362,
+            0.339969664812088,
+            0.34498149156570435,
+            0.34507906436920166
+        ]
+    },
+    {
+        "id": 15,
+        "question": "What clinical trials have investigated PSMA-targeted radioligand therapies?",
+        "category": "clinical_trials",
+        "contexts": [
+            "s mini review will evaluate the scientific evidence and rationale for dose intensification with PSMA-targeted radioligand therapy (PSMA-RLT). It will cover existing trials that are evaluating a variety of dose-dense regimens and give a more in-depth overview of the OPTIMAL-PSMA trial.",
+            "-117 and actinium-225, while reports exist about the use of radioligand immunotherapy. Meanwhile, ongoing trials examine the development of novel radionuclides as well as the evolution of the PSMA-targeted ligands. Expert opinion Currently, PSMA radioligand treatment of prostate cancer is approved in the metastatic stage of the disease. Meanwhile, a variety of trials exist about its possible role in less advanced stages. However, plenty of parameters should be addressed before these implementations, such as PSMA dosage, dosimetry issues, and its safety profile. A future well-designed study with proper patient selection is mandatory to further explore PSMA radioligand theranostics perspectives.",
+            "s study suggests that PSMA-targeted radioligand therapy is at least as effective as other treatments for advanced prostate cancer, with potential benefits in terms of toxicity, duration, and overall cost.",
+            " Antigen, PSMA, PSMA radioligand therapy",
+            "ation. Conclusion PSMA-targeted radioligand therapy was infrequently used to treat different non-prostatic cancer types in various target organs. These pioneering efforts indicate that 177 Lu-PSMA can be used to treat non-prostatic cancer with PSMA expression. The toxicity of such treatment was low, and the outcome was relatively good."
+        ],
+        "answer": "Based on the provided context, the clinical trials investigating PSMA-targeted radioligand therapies include:\n\n* **The OPTIMAL-PSMA trial** (and other existing trials evaluating a variety of dose-dense regimens).\n* **Ongoing trials** examining the development of novel radionuclides and the evolution of PSMA-targeted ligands.\n* **Trials** evaluating its possible role in less advanced stages of prostate cancer.",
+        "retrieved_ids": [
+            "42493333_1",
+            "39054909_1",
+            "40647544_2",
+            "NCT03490838_1",
+            "38821587_2"
+        ],
+        "distances": [
+            0.3381039798259735,
+            0.3558615744113922,
+            0.3587634861469269,
+            0.3623264729976654,
+            0.367016077041626
+        ]
+    },
+    {
+        "id": 16,
+        "question": "What types of PSMA-targeted therapies are being investigated besides radioligand therapy?",
+        "category": "theranostics",
+        "contexts": [
+            "ation. Conclusion PSMA-targeted radioligand therapy was infrequently used to treat different non-prostatic cancer types in various target organs. These pioneering efforts indicate that 177 Lu-PSMA can be used to treat non-prostatic cancer with PSMA expression. The toxicity of such treatment was low, and the outcome was relatively good.",
+            "ity of PSMA-targeted therapy, we should be more prudent to this therapy. In this review, we evaluates the evolving clinical and preclinical landscape of PSMA-targeted therapy, as well as the potential biomarkers for evaluating the therapeutic response.",
+            " Antigen, PSMA, PSMA radioligand therapy",
+            "re PSMA positive. Over the last decade, several PSMA-based PET radiopharmaceuticals have demonstrated superior sensitivities and specificities compared to traditional imaging methods. These outcomes have been demonstrated by several large clinical trials. As the data emerges, these diagnostics are being integrated into standard of care protocol to facilitate nuanced identification of malignant lesions. PSMA is also being targeted through several therapeutics, including radioligands and immunotherapies such as CAR-T, BiTEs, and ADCs. This review will discuss the landscape of PSMA-based theranostics in the context of prostate cancer.",
+            "ss PSMA and its potential as target for vasculature-directed therapeutic approaches, including radioligand therapy, fusion protein vaccination and CAR T-cell therapy."
+        ],
+        "answer": "Based on the provided context, the types of PSMA-targeted therapies being investigated besides radioligand therapy include:\n\n* **Immunotherapies**, specifically:\n  * CAR-T / CAR T-cell therapy\n  * BiTEs\n  * ADCs (antibody-drug conjugates)\n* **Fusion protein vaccination**\n* **Vasculature-directed therapeutic approaches**",
+        "retrieved_ids": [
+            "38821587_2",
+            "40917757_1",
+            "NCT03490838_1",
+            "40868092_1",
+            "39551117_1"
+        ],
+        "distances": [
+            0.33350247144699097,
+            0.34999385476112366,
+            0.36741364002227783,
+            0.3692627549171448,
+            0.3723568320274353
+        ]
+    },
+    {
+        "id": 17,
+        "question": "What is the relationship between PSMA-targeted imaging and PSMA-targeted therapy?",
+        "category": "theranostics",
+        "contexts": [
+            "PSMA suppression is evolving. Clinically, molecular imaging provides a unique window into PSMA dynamics that occur on therapy and with disease progression, although challenges arise owing to the limited resolution of PET. PSMA regulation and heterogeneity - including intertumoural and inter-patient heterogeneity, temporal changes, lineage dynamics and the tumour microenvironment - affect PSMA theranostics. PSMA response and resistance to radioligand therapy are mediated by a number of potential mechanisms, and complementary biomarkers beyond PSMA are under development. Understanding the biological determinants of cell surface target regulation and heterogeneity can inform precision medicine approaches to PSMA theranostics as well as other emerging therapies.",
+            "mical studies link PSMA expression to higher tumor grade, advanced stage, and poor prognosis. Clinical evidence indicates that PSMA-targeted PET provides superior sensitivity compared with FDG-PET and may enhance staging and treatment response assessment. Furthermore, PSMA targeted radioligand therapy (RLT) has shown efficacy in preclinical models, although early clinical experience suggests limited benefit, likely due to heterogeneous vascular expression. Major challenges include variable PSMA distribution, potential uptake in inflammatory liver processes, and the absence of prospective controlled trials. Nonetheless, PSMA-based imaging and therapy represent a promising frontier in precision medicine for HCC, warranting rigorous clinical validation and exploration in combination with established locoregional treatments.",
+            "ity of PSMA-targeted therapy, we should be more prudent to this therapy. In this review, we evaluates the evolving clinical and preclinical landscape of PSMA-targeted therapy, as well as the potential biomarkers for evaluating the therapeutic response.",
+            "ole of PSMA in tumor progression, highlighting its involvement in neoangiogenesis, metabolic reprogramming, and therapeutic vulnerabilities. We critically examine the latest advancements in PSMA-targeted treatment strategies, including radioligand therapy (e.g., 177 Lu-PSMA-617), antibody-drug conjugates, bispecific T-cell engagers, and small-molecule PSMA inhibitors. Clinical studies have demonstrated that PSMA-directed therapies can significantly reduce prostate-specific antigen (PSA) levels, improve radiographic progression-free survival (rPFS), and enhance patient-reported quality of life. However, challenges such as heterogeneous PSMA expression and acquired resistance necessitate further investigation. Ongoing clinical trials are actively exploring combinatory approaches, integrating PSMA-targeted therapy with radiotherapy, chemotherapy, and immunotherapy to optimize therapeutic efficacy. This review underscores the promise of PSMA-targeted strategies in advancing precision medic",
+            "patients with advanced prostate cancer. The findings indicate promising outcomes regarding the safety and efficacy of PSMA-targeted radiopharmaceuticals in clinical settings. The specific accumulation of these agents in prostate tumor lesions suggests their potential for various applications, including imaging and therapy. This research underscores the promise of radiopharmaceuticals targeting PSMA in advancing the diagnosis and treatment of prostate cancer. These agents improve diagnostic accuracy and patients' outcomes by enhancing imaging capabilities and enabling personalized treatment strategies."
+        ],
+        "answer": "Based on the provided context, the relationship between PSMA-targeted imaging and PSMA-targeted therapy includes:\n\n* **Dual Application (Theranostics):** PSMA-targeted agents specifically accumulate in tumor lesions, allowing them to be utilized for both imaging and targeted therapy as part of precision medicine and theranostics.\n* **Treatment Response Assessment:** PSMA-targeted molecular imaging provides a unique window into PSMA dynamics that occur during therapy and helps enhance the assessment of treatment response and disease progression.\n* **Personalized Medicine:** Enhancing diagnostic imaging capabilities helps guide and enable personalized treatment strategies for therapy.",
+        "retrieved_ids": [
+            "38977769_1",
+            "41831332_1",
+            "40917757_1",
+            "40466338_1",
+            "39770150_2"
+        ],
+        "distances": [
+            0.3367701768875122,
+            0.3408912718296051,
+            0.348354697227478,
+            0.3664058446884155,
+            0.37621811032295227
+        ]
+    },
+    {
+        "id": 18,
+        "question": "What factors may affect the future clinical use of PSMA-targeted radioligand therapy?",
+        "category": "future_research",
+        "contexts": [
+            "-117 and actinium-225, while reports exist about the use of radioligand immunotherapy. Meanwhile, ongoing trials examine the development of novel radionuclides as well as the evolution of the PSMA-targeted ligands. Expert opinion Currently, PSMA radioligand treatment of prostate cancer is approved in the metastatic stage of the disease. Meanwhile, a variety of trials exist about its possible role in less advanced stages. However, plenty of parameters should be addressed before these implementations, such as PSMA dosage, dosimetry issues, and its safety profile. A future well-designed study with proper patient selection is mandatory to further explore PSMA radioligand theranostics perspectives.",
+            "sts a possible use for PSMA-directed radiopharmaceutical therapy in an end-stage setting. However, PSMA expression was not prognostic for outcome, possibly because of the small sample size.",
+            "ity of PSMA-targeted therapy, we should be more prudent to this therapy. In this review, we evaluates the evolving clinical and preclinical landscape of PSMA-targeted therapy, as well as the potential biomarkers for evaluating the therapeutic response.",
+            "s study suggests that PSMA-targeted radioligand therapy is at least as effective as other treatments for advanced prostate cancer, with potential benefits in terms of toxicity, duration, and overall cost.",
+            "separately as contextual therapy for selected patients with symptomatic bone-predominant mCRPC without visceral metastases. As clinical use of radioligand therapy expands, optimization of PSMA PET-based patient selection, management of salivary, hematologic, and renal toxicities, sequencing with other systemic therapies, and integration into multidisciplinary care pathways will be essential. Future research should prioritize randomized clinical trials, individualized dosimetry, predictive biomarkers, toxicity mitigation, and patient-centered implementation strategies."
+        ],
+        "answer": "Based on the provided context, the factors and parameters that may affect or are essential to the future clinical use and implementation of PSMA-targeted radioligand therapy include:\n\n* **Dosage and Dosimetry:** Addressing PSMA dosage, dosimetry issues, and implementing individualized dosimetry.\n* **Safety and Toxicity Management:** Evaluating the safety profile, mitigating toxicity, and managing salivary, hematologic, and renal toxicities.\n* **Patient Selection:** Optimization of proper, PSMA PET-based patient selection.\n* **Clinical Trials and Research:** Conducting well-designed studies and randomized clinical trials.\n* **Treatment Integration:** Sequencing the therapy with other systemic therapies and integrating it into multidisciplinary care pathways.\n* **Biomarkers:** Identifying and using predictive biomarkers.\n* **Implementation Strategies:** Developing patient-centered implementation strategies.",
+        "retrieved_ids": [
+            "39054909_1",
+            "41198240_3",
+            "40917757_1",
+            "40647544_2",
+            "42529062_2"
+        ],
+        "distances": [
+            0.32553499937057495,
+            0.3416537642478943,
+            0.35357072949409485,
+            0.3628047704696655,
+            0.36378151178359985
+        ]
+    },
+    {
+        "id": 19,
+        "question": "What evidence is available about PSMA-targeted radioligand therapy in cancers other than prostate cancer?",
+        "category": "out_of_primary_scope",
+        "contexts": [
+            "s study suggests that PSMA-targeted radioligand therapy is at least as effective as other treatments for advanced prostate cancer, with potential benefits in terms of toxicity, duration, and overall cost.",
+            "ation. Conclusion PSMA-targeted radioligand therapy was infrequently used to treat different non-prostatic cancer types in various target organs. These pioneering efforts indicate that 177 Lu-PSMA can be used to treat non-prostatic cancer with PSMA expression. The toxicity of such treatment was low, and the outcome was relatively good.",
+            "re PSMA positive. Over the last decade, several PSMA-based PET radiopharmaceuticals have demonstrated superior sensitivities and specificities compared to traditional imaging methods. These outcomes have been demonstrated by several large clinical trials. As the data emerges, these diagnostics are being integrated into standard of care protocol to facilitate nuanced identification of malignant lesions. PSMA is also being targeted through several therapeutics, including radioligands and immunotherapies such as CAR-T, BiTEs, and ADCs. This review will discuss the landscape of PSMA-based theranostics in the context of prostate cancer.",
+            "patients with advanced prostate cancer. The findings indicate promising outcomes regarding the safety and efficacy of PSMA-targeted radiopharmaceuticals in clinical settings. The specific accumulation of these agents in prostate tumor lesions suggests their potential for various applications, including imaging and therapy. This research underscores the promise of radiopharmaceuticals targeting PSMA in advancing the diagnosis and treatment of prostate cancer. These agents improve diagnostic accuracy and patients' outcomes by enhancing imaging capabilities and enabling personalized treatment strategies.",
+            "-117 and actinium-225, while reports exist about the use of radioligand immunotherapy. Meanwhile, ongoing trials examine the development of novel radionuclides as well as the evolution of the PSMA-targeted ligands. Expert opinion Currently, PSMA radioligand treatment of prostate cancer is approved in the metastatic stage of the disease. Meanwhile, a variety of trials exist about its possible role in less advanced stages. However, plenty of parameters should be addressed before these implementations, such as PSMA dosage, dosimetry issues, and its safety profile. A future well-designed study with proper patient selection is mandatory to further explore PSMA radioligand theranostics perspectives."
+        ],
+        "answer": "Based on the provided context, the evidence available regarding PSMA-targeted radioligand therapy in non-prostatic cancers indicates that:\n\n* It has been infrequently used to treat different non-prostatic cancer types across various target organs.\n* 177 Lu-PSMA can be used to treat non-prostatic cancers that express PSMA.\n* The toxicity of this treatment was low.\n* The treatment outcomes were relatively good.",
+        "retrieved_ids": [
+            "40647544_2",
+            "38821587_2",
+            "40868092_1",
+            "39770150_2",
+            "39054909_1"
+        ],
+        "distances": [
+            0.21089813113212585,
+            0.22876641154289246,
+            0.24421219527721405,
+            0.2612934112548828,
+            0.2694571614265442
+        ]
+    },
+    {
+        "id": 6,
+        "question": "What prostate cancer patients have been studied with PSMA-targeted radioligand therapy?",
+        "category": "clinical",
+        "contexts": [
+            "patients with advanced prostate cancer. The findings indicate promising outcomes regarding the safety and efficacy of PSMA-targeted radiopharmaceuticals in clinical settings. The specific accumulation of these agents in prostate tumor lesions suggests their potential for various applications, including imaging and therapy. This research underscores the promise of radiopharmaceuticals targeting PSMA in advancing the diagnosis and treatment of prostate cancer. These agents improve diagnostic accuracy and patients' outcomes by enhancing imaging capabilities and enabling personalized treatment strategies.",
+            "ptake and localization at the target site while minimizing the retention in non-target tissues. The primary aim of this study is to evaluate the potential of low-molecular-weight PSMA inhibitors labeled with radioisotopes as theranostic agents for prostate cancer. This includes assessing their efficacy in targeted imaging and therapy and understanding their pharmacokinetic properties and mechanisms of action. This study is a literature review focusing on in vitro and clinical research data. The in vitro studies utilize PSMA-targeted radioligands labeled with radioisotopes to assess their binding affinity, specificity, and internalization in prostate cancer cell lines. Additionally, the clinical studies evaluate the safety, effectiveness, and biodistribution of radiolabeled PSMA ligands in patients with advanced prostate cancer. The findings indicate promising outcomes regarding the safety and efficacy of PSMA-targeted radiopharmaceuticals in clinical settings. The specific accumulation",
+            "re PSMA positive. Over the last decade, several PSMA-based PET radiopharmaceuticals have demonstrated superior sensitivities and specificities compared to traditional imaging methods. These outcomes have been demonstrated by several large clinical trials. As the data emerges, these diagnostics are being integrated into standard of care protocol to facilitate nuanced identification of malignant lesions. PSMA is also being targeted through several therapeutics, including radioligands and immunotherapies such as CAR-T, BiTEs, and ADCs. This review will discuss the landscape of PSMA-based theranostics in the context of prostate cancer.",
+            "Title: PSMA-targeted radioligand therapy in advanced prostate cancer: a narrative review of ^177Lu-PSMA, emerging ^225Ac-PSMA strategies, and therapeutic sequencing. Abstract: Prostate cancer remains a leading cause of cancer-related morbidity and mortality among men, and metastatic castration-resistant prostate cancer continues to present substantial therapeutic challenges despite advances in androgen receptor pathway inhibitors, taxane chemotherapy, PARP inhibitors, and immunotherapy for selected molecular subgroups. Prostate-specific membrane antigen (PSMA)-targeted radioligand therapy has emerged as a clinically important theranostic strategy that combines molecular imaging-based patient selection with targeted delivery of cytotoxic radiation to PSMA-expressing tumor sites. This narrative review summarizes the biological rationale, clinical evidence, safety profile, and evolving treatment-sequencing considerations for PSMA-targeted radioligand therapy in advanced prostate cancer. P",
+            "ations for [177Lu]Lu-PSMA-617 are based on the TheraP and VISION clinical trials.. · Adequate patient selection using PSMA-ligand PET/CT is essential for beneficial outcomes.. · Response evaluation is based on imaging, PSA levels, and the patient's clinical condition.. · Karimzadeh A, Lehnert W, Koehler D et al. Overview of selected completed prospective studies on PSMA-targeted radioligand therapy with [177Lu]Lu-PSMA-617 in metastatic castration-resistant prostate cancer. Rofo 2025; 197: 1033-1042."
+        ],
+        "answer": "Based on the provided context, PSMA-targeted radioligand therapy has been studied in patients with:\n\n* **Advanced prostate cancer**\n* **Metastatic castration-resistant prostate cancer**",
+        "retrieved_ids": [
+            "39770150_2",
+            "39770150_1",
+            "40868092_1",
+            "42529062_0",
+            "39842443_2"
+        ],
+        "distances": [
+            0.2750970125198364,
+            0.3445655405521393,
+            0.35426464676856995,
+            0.3614700436592102,
+            0.3678707182407379
+        ]
+    },
+    {
+        "id": 7,
+        "question": "What evidence exists for PSMA-targeted radioligand therapy in metastatic castration-resistant prostate cancer?",
+        "category": "clinical",
+        "contexts": [
+            "s study suggests that PSMA-targeted radioligand therapy is at least as effective as other treatments for advanced prostate cancer, with potential benefits in terms of toxicity, duration, and overall cost.",
+            "Simultaneously, PSMA-directed radioligand therapies, including 177Lu-PSMA-617, have demonstrated advances in progression-free survival (PFS) and overall survival (OS) in metastatic castration-resistant prostate cancer (mCRPC), with a manageable toxicity profile. This review emphasizes the significance of PSMA-based imaging and treatment, utilizing evidence from landmark trials. It also looks at changing approaches including early in the disease course through use of theranostics and dual-tracer PET imaging. Strategies using the immunomodulatory effects of radioligand therapy and combination treatments including androgen receptor (AR) pathway inhibitors, chemotherapy, or immunotherapy are under research and may improve outcomes. Furthermore, increasing the range of use of theranostics is the development of next-generation radiotracers and techniques to handle PSMA-negative or neuroendocrine variations. Lastly, we address worldwide differences in access to PSMA-targeted devices defined b",
+            "ly in cases of biochemical recurrence and early-stage disease. The advent of radiolabeled PSMA ligands, such as 68Ga-PSMA-11 and 18 F-DCFPyL, has led to improved diagnostic accuracy. Furthermore, PSMA-targeted radioligand therapies (e.g., 177Lu-PSMA-617) show promising results in metastatic castration-resistant prostate cancer (mCRPC), offering a novel therapeutic avenue. Studies have also highlighted the role of PSMA PET in refining treatment plans, including guiding surgery and radiotherapy. PSMA PET imaging represents a paradigm shift in prostate cancer diagnostics, staging, and treatment monitoring. It has led to earlier and more accurate detection of metastases, significantly altering management strategies. The growing body of evidence supports its integration into standard-of-care protocols, with ongoing research focusing on optimizing its therapeutic applications. Future studies should explore cost-effectiveness, accessibility, and potential synergies with emerging systemic ther",
+            "ations for [177Lu]Lu-PSMA-617 are based on the TheraP and VISION clinical trials.. · Adequate patient selection using PSMA-ligand PET/CT is essential for beneficial outcomes.. · Response evaluation is based on imaging, PSA levels, and the patient's clinical condition.. · Karimzadeh A, Lehnert W, Koehler D et al. Overview of selected completed prospective studies on PSMA-targeted radioligand therapy with [177Lu]Lu-PSMA-617 in metastatic castration-resistant prostate cancer. Rofo 2025; 197: 1033-1042.",
+            "y. · Indications for [177Lu]Lu-PSMA-617 are based on the TheraP and VISION clinical trials.. · Adequate patient selection using PSMA-ligand PET/CT is essential for beneficial outcomes.. · Response evaluation is based on imaging, PSA levels, and the patient's clinical condition.. · Karimzadeh A, Lehnert W, Koehler D et al. Overview of selected completed prospective studies on PSMA-targeted radioligand therapy with [177Lu]Lu-PSMA-617 in metastatic castration-resistant prostate cancer. Rofo 2025; DOI 10.1055/a-2514-4523."
+        ],
+        "answer": "Based on the provided context, the evidence for PSMA-targeted radioligand therapy (such as $^{177}\\text{Lu-PSMA-617}$) in metastatic castration-resistant prostate cancer (mCRPC) includes:\n\n* **Clinical Trials:** Evidence and treatment indications are based on landmark prospective studies and clinical trials, specifically the **TheraP** and **VISION** trials.\n* **Survival and Efficacy Improvements:** Therapies have demonstrated advances/improvements in both progression-free survival (PFS) and overall survival (OS). Studies also suggest it is at least as effective as other treatments for advanced prostate cancer.\n* **Toxicity and Other Benefits:** It shows a manageable toxicity profile, offering potential benefits in terms of reduced toxicity, treatment duration, and overall cost.",
+        "retrieved_ids": [
+            "40647544_2",
+            "42320339_1",
+            "40448740_1",
+            "39842443_2",
+            "40769164_2"
+        ],
+        "distances": [
+            0.24171313643455505,
+            0.26846277713775635,
+            0.2689923644065857,
+            0.2699781656265259,
+            0.27211856842041016
+        ]
+    },
+    {
+        "id": 8,
+        "question": "What are the reported safety considerations of PSMA-targeted radioligand therapy?",
+        "category": "clinical",
+        "contexts": [
+            "-117 and actinium-225, while reports exist about the use of radioligand immunotherapy. Meanwhile, ongoing trials examine the development of novel radionuclides as well as the evolution of the PSMA-targeted ligands. Expert opinion Currently, PSMA radioligand treatment of prostate cancer is approved in the metastatic stage of the disease. Meanwhile, a variety of trials exist about its possible role in less advanced stages. However, plenty of parameters should be addressed before these implementations, such as PSMA dosage, dosimetry issues, and its safety profile. A future well-designed study with proper patient selection is mandatory to further explore PSMA radioligand theranostics perspectives.",
+            "ation. Conclusion PSMA-targeted radioligand therapy was infrequently used to treat different non-prostatic cancer types in various target organs. These pioneering efforts indicate that 177 Lu-PSMA can be used to treat non-prostatic cancer with PSMA expression. The toxicity of such treatment was low, and the outcome was relatively good.",
+            " Antigen, PSMA, PSMA radioligand therapy",
+            "s study suggests that PSMA-targeted radioligand therapy is at least as effective as other treatments for advanced prostate cancer, with potential benefits in terms of toxicity, duration, and overall cost.",
+            "sts a possible use for PSMA-directed radiopharmaceutical therapy in an end-stage setting. However, PSMA expression was not prognostic for outcome, possibly because of the small sample size."
+        ],
+        "answer": "The report mentions that plenty of parameters should be addressed before the implementation of PSMA-targeted radioligand therapy. These parameters include PSMA dosage, dosimetry issues, and its safety profile. While the study indicates that the toxicity of such treatment was low and the outcome was relatively good, the safety profile of PSMA-targeted radioligand therapy needs further exploration before its widespread implementation.",
+        "retrieved_ids": [
+            "39054909_1",
+            "38821587_2",
+            "NCT03490838_1",
+            "40647544_2",
+            "41198240_3"
+        ],
+        "distances": [
+            0.36938539147377014,
+            0.3953070044517517,
+            0.40250781178474426,
+            0.4146290421485901,
+            0.4198189675807953
+        ]
+    },
+    {
+        "id": 9,
+        "question": "What are the potential benefits of PSMA-targeted radiopharmaceuticals?",
+        "category": "clinical",
+        "contexts": [
+            "s study suggests that PSMA-targeted radioligand therapy is at least as effective as other treatments for advanced prostate cancer, with potential benefits in terms of toxicity, duration, and overall cost.",
+            "patients with advanced prostate cancer. The findings indicate promising outcomes regarding the safety and efficacy of PSMA-targeted radiopharmaceuticals in clinical settings. The specific accumulation of these agents in prostate tumor lesions suggests their potential for various applications, including imaging and therapy. This research underscores the promise of radiopharmaceuticals targeting PSMA in advancing the diagnosis and treatment of prostate cancer. These agents improve diagnostic accuracy and patients' outcomes by enhancing imaging capabilities and enabling personalized treatment strategies.",
+            "ss PSMA and its potential as target for vasculature-directed therapeutic approaches, including radioligand therapy, fusion protein vaccination and CAR T-cell therapy.",
+            "sts a possible use for PSMA-directed radiopharmaceutical therapy in an end-stage setting. However, PSMA expression was not prognostic for outcome, possibly because of the small sample size.",
+            "ly in cases of biochemical recurrence and early-stage disease. The advent of radiolabeled PSMA ligands, such as 68Ga-PSMA-11 and 18 F-DCFPyL, has led to improved diagnostic accuracy. Furthermore, PSMA-targeted radioligand therapies (e.g., 177Lu-PSMA-617) show promising results in metastatic castration-resistant prostate cancer (mCRPC), offering a novel therapeutic avenue. Studies have also highlighted the role of PSMA PET in refining treatment plans, including guiding surgery and radiotherapy. PSMA PET imaging represents a paradigm shift in prostate cancer diagnostics, staging, and treatment monitoring. It has led to earlier and more accurate detection of metastases, significantly altering management strategies. The growing body of evidence supports its integration into standard-of-care protocols, with ongoing research focusing on optimizing its therapeutic applications. Future studies should explore cost-effectiveness, accessibility, and potential synergies with emerging systemic ther"
+        ],
+        "answer": "PSMA-targeted radiopharmaceuticals have several potential benefits:\n\n1. **Simplified and Personalized Treatment Strategies**: They enable more precise and personalized treatment approaches, leading to improved patient outcomes.\n2. **Enhanced Diagnostic Accuracy**: PSMA-targeted radioligands have improved diagnostic accuracy, particularly in cases of biochemical recurrence and early-stage disease.\n3. **Effective Therapeutic Applications**: These agents show promising results in metastatic castration-resistant prostate cancer (mCRPC), offering a new therapeutic avenue for treatment.\n4. **Better Treatment Plans**: PSMA PET imaging has guided surgery and radiotherapy, refining treatment plans and guiding more precise medical interventions.\n5. **Improved Detection of Metastases**: PSMA PET imaging has led to earlier and more accurate detection of metastases, significantly altering the management strategies for prostate cancer patients.\n\nOverall, the potential benefits include reduced toxicity, shorter duration, and overall cost savings associated with traditional treatments.",
+        "retrieved_ids": [
+            "40647544_2",
+            "39770150_2",
+            "39551117_1",
+            "41198240_3",
+            "40448740_1"
+        ],
+        "distances": [
+            0.30264782905578613,
+            0.31980109214782715,
+            0.3413951098918915,
+            0.3593166470527649,
+            0.36174800992012024
+        ]
+    },
+    {
+        "id": 14,
+        "question": "What is known about the binding affinity and specificity of PSMA-targeted radioligands?",
+        "category": "mechanism",
+        "contexts": [
+            "ptake and localization at the target site while minimizing the retention in non-target tissues. The primary aim of this study is to evaluate the potential of low-molecular-weight PSMA inhibitors labeled with radioisotopes as theranostic agents for prostate cancer. This includes assessing their efficacy in targeted imaging and therapy and understanding their pharmacokinetic properties and mechanisms of action. This study is a literature review focusing on in vitro and clinical research data. The in vitro studies utilize PSMA-targeted radioligands labeled with radioisotopes to assess their binding affinity, specificity, and internalization in prostate cancer cell lines. Additionally, the clinical studies evaluate the safety, effectiveness, and biodistribution of radiolabeled PSMA ligands in patients with advanced prostate cancer. The findings indicate promising outcomes regarding the safety and efficacy of PSMA-targeted radiopharmaceuticals in clinical settings. The specific accumulation",
+            "pecificity of binding to PSMA, and the uptake was minimal in the paired PSMA-negative cell lines CWRR1-EnzR and DU145. In saturation binding assays, the three radioligands exhibited comparable binding affinities (K D ) in LNCaP-AR and DU145-PSMA cell lines, with 5.9 ± 0.7 nM and 2.3 ± 0.3 nM for [ 177 Lu]Lu-PSMA-617, 5.7 ± 0.5 nM and 5.8 ± 0.9 nM for [ 225 Ac]Ac-PSMA-617, and 2.7 ± 0.5 nM and 8.0 ± 1.1 nM for [ 212 Pb]Pb-PSMA-617, respectively. Conclusion [ 212 Pb]Pb-PSMA-617 showed similar or better uptake in PSMA-positive cell lines compared to [ 177 Lu]Lu-PSMA-617. While [ 225 Ac]Ac-PSMA-617 also showed selective and specific uptake in the two PSMA-positive cell lines, the uptake levels were substantially lower, likely due to the low molar activities achievable for [ 225 Ac]Ac-PSMA-617 compared to [ 212 Pb]Pb-PSMA-617 or [ 177 Lu]Lu-PSMA-617.",
+            "SMA-617 (300 nM), confirming the specificity of binding to PSMA, and the uptake was minimal in the paired PSMA-negative cell lines CWRR1-EnzR and DU145. In saturation binding assays, the three radioligands exhibited comparable binding affinities ( K D ) in LNCaP-AR and DU145-PSMA cell lines, with 5.9 ± 0.7 nM and 2.3 ± 0.5 nM for [ 177 Lu]Lu-PSMA-617, 5.7 ± 0.5 nM and 5.8 ± 0.9 nM for [ 225 Ac]Ac-PSMA-617, and 2.7 ± 0.5 nM and 8.0 ± 1.1 nM for [ 212 Pb]Pb-PSMA-617, respectively. Conclusion [ 212 Pb]Pb-PSMA-617 showed similar or better uptake in PSMA-positive cell lines compared to [ 177 Lu]Lu-PSMA-617. While [ 225 Ac]Ac-PSMA-617 also showed selective and specific uptake in the two PSMA-positive cell lines, the uptake levels were substantially lower, likely due to the low molar activities achievable for [ 225 Ac]Ac-PSMA-617 compared to [ 212 Pb]Pb-PSMA-617 or [ 177 Lu]Lu-PSMA-617.",
+            " Antigen, PSMA, PSMA radioligand therapy",
+            "-117 and actinium-225, while reports exist about the use of radioligand immunotherapy. Meanwhile, ongoing trials examine the development of novel radionuclides as well as the evolution of the PSMA-targeted ligands. Expert opinion Currently, PSMA radioligand treatment of prostate cancer is approved in the metastatic stage of the disease. Meanwhile, a variety of trials exist about its possible role in less advanced stages. However, plenty of parameters should be addressed before these implementations, such as PSMA dosage, dosimetry issues, and its safety profile. A future well-designed study with proper patient selection is mandatory to further explore PSMA radioligand theranostics perspectives."
+        ],
+        "answer": "Based on the information provided, PSMA-targeted radioligands exhibit comparable or better binding affinity and specificity to PSMA. Specifically:\n\n- The radioligand [212Pb]Pb-PSMA-617 showed similar or better uptake in PSMA-positive cell lines compared to [177Lu]Lu-PSMA-617.\n- [225Ac]Ac-PSMA-617 also demonstrated selective and specific uptake in PSMA-positive cell lines, but its uptake levels were substantially lower, likely due to the low molar activities achievable with [225Ac]Ac-PSMA-617 compared to the other radioligands, [177Lu]Lu-PSMA-617, and [212Pb]Pb-PSMA-617.\n\nThe binding affinity (K D ) of the radioligands was consistent across different cell lines and radioligands, with comparable binding affinities in LNCaP-AR and DU145-PSMA cell lines. For instance, [177Lu]Lu-PSMA-617 had binding affinities of 5.9 ± 0.7 nM and 2.3 ± 0.5 nM in LNCaP-AR and DU145-PSMA cell lines, respectively. [225Ac]Ac-PSMA-617 and [212Pb]Pb-PSMA-617 both showed comparable binding affinities of 5.7 ± 0.5 nM and 2.7 ± 0.5 nM and 5.8 ± 0.9 nM and 8.0 ± 1.1 nM in the same cell lines, respectively.",
+        "retrieved_ids": [
+            "39770150_1",
+            "42159963_3",
+            "PPR1184315_3",
+            "NCT03490838_1",
+            "39054909_1"
+        ],
+        "distances": [
+            0.34353387355804443,
+            0.3481733798980713,
+            0.3637794554233551,
+            0.38960087299346924,
+            0.4036078453063965
+        ]
+    },
+    {
+        "id": 20,
+        "question": "What is the role of chemotherapy in treating bacterial infections?",
+        "category": "out_of_scope",
+        "contexts": [
+            " as an effective adjunctive and/or independent method for treating cancer patients. Despite the emergence of resistance to both chemotherapy and radiotherapy, existing nuclide resources provide protection against subsequent tumor metastasis. However, given the unfavorable cancer incidence prognosis over the next 25 years, the development of \"preventive\" drugs is recommended. Progress in this area will be facilitated by modern medical knowledge and a deeper understanding of ligand-receptor interactions to trigger apoptosis in rapidly proliferating cells.",
+            "ntigen-directed platforms will clarify whether chemotherapy can act as an immune-enabling partner in defined settings.",
+            "nd cabazitaxel, as well as newer agents like poly(ADP-ribose) polymerase (PARP) inhibitors and prostate-specific membrane antigen (PSMA)-based radioligand therapies. These agents are used as monotherapy or in combination, depending on the patient's status and treatment history. Choosing the appropriate follow-up therapy after first-line failure is often difficult because current study results are mostly based on older treatment concepts. Precise, molecular-based treatment planning could play a key role here. Molecular markers such as BRCA 1/2 mutations and imaging techniques like PSMA-PET/CT can help identify the most suitable therapy for individual patients. For example, patients with BRCA 1/2 mutations may benefit from a combination of PARP and ARPI therapy, while those with high PSMA levels may be considered for PSMA radioligand therapy. Thus, therapeutic options for the treatment of mCRPC are now diverse and promising, with the challenge being to determine the right sequences and c",
+            "and remained effective in vincristine-resistant BE2C/VCR and paclitaxel-resistant PC-3/TxR cells. Unlike vincristine and paclitaxel, QW-5-70's activity and intracellular accumulation were unaffected by pharmacologic or genetic inhibition of P-gp, indicating effective circumvention of efflux-mediated resistance. In vitro, QW-5-70 significantly reduced colony formation and impaired migration in both parental and resistant cancer cells, and induced G2/M cell cycle arrest and mitochondrial apoptosis. In vivo, QW-5-70 significantly suppressed tumor growth in drug-resistant PC-3/TxR and BE2C/VCR xenografts, with modest weight loss and no evident histopathology in the major organs. Combination studies revealed a combination index (CI)-defined synergistic interactions at selected dose pairs with the ornithine decarboxylase inhibitor DFMO, and enhanced apoptotic and clonogenic suppression when combined with the Aurora A kinase inhibitor MLN8237. Collectively, QW-5-70 is a potent CBSI that circu",
+            "se (PARP) inhibitors for the treatment of mHSPC, synthesizing current evidence and guiding clinical decision-making. With technological advances and insight from molecular studies, we discuss emerging biomarkers as indicators to guide prognostication and therapeutic decisions. As a result of these developments, the treatment landscape for mHSPC is evolving toward a precision oncology paradigm incorporating combined systemic therapies."
+        ],
+        "answer": "The provided context discusses the use of chemotherapy, radiotherapy, and related treatments in the context of treating cancer patients. It does not provide information about the role of chemotherapy in treating bacterial infections. The context is focused on the treatment of cancer, specifically hormone-sensitive prostate cancer (mHSPC), and does not address chemotherapy for bacterial infections.",
+        "retrieved_ids": [
+            "40843729_3",
+            "41749900_2",
+            "39836209_1",
+            "42018153_1",
+            "42199608_1"
+        ],
+        "distances": [
+            0.6959750056266785,
+            0.7434434294700623,
+            0.7757924795150757,
+            0.7847311496734619,
+            0.7889549732208252
+        ]
+    }
+]

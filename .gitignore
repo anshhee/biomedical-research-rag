@@ -16,6 +16,8 @@ env/
 ENV/
 
 # Environment / secrets
+.venv312/
+.venv/
 .env
 .env.*
 *.env
