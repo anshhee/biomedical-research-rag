@@ -1,0 +1,164 @@
+{
+  "metric_definition": {
+    "weighted_faithfulness": "(supported + 0.5 * partially_supported) / total_claims",
+    "strict_faithfulness": "supported / total_claims"
+  },
+  "per_question": {
+    "1": {
+      "supported": 2,
+      "partial": 1,
+      "unsupported": 0,
+      "total": 3,
+      "weighted_score": 0.8333333333333334,
+      "strict_score": 0.6666666666666666
+    },
+    "2": {
+      "supported": 6,
+      "partial": 0,
+      "unsupported": 0,
+      "total": 6,
+      "weighted_score": 1.0,
+      "strict_score": 1.0
+    },
+    "3": {
+      "supported": 4,
+      "partial": 1,
+      "unsupported": 0,
+      "total": 5,
+      "weighted_score": 0.9,
+      "strict_score": 0.8
+    },
+    "4": {
+      "supported": 7,
+      "partial": 0,
+      "unsupported": 0,
+      "total": 7,
+      "weighted_score": 1.0,
+      "strict_score": 1.0
+    },
+    "5": {
+      "supported": 2,
+      "partial": 1,
+      "unsupported": 0,
+      "total": 3,
+      "weighted_score": 0.8333333333333334,
+      "strict_score": 0.6666666666666666
+    },
+    "6": {
+      "supported": 2,
+      "partial": 2,
+      "unsupported": 0,
+      "total": 4,
+      "weighted_score": 0.75,
+      "strict_score": 0.5
+    },
+    "7": {
+      "supported": 5,
+      "partial": 0,
+      "unsupported": 0,
+      "total": 5,
+      "weighted_score": 1.0,
+      "strict_score": 1.0
+    },
+    "8": {
+      "supported": 2,
+      "partial": 1,
+      "unsupported": 0,
+      "total": 3,
+      "weighted_score": 0.8333333333333334,
+      "strict_score": 0.6666666666666666
+    },
+    "9": {
+      "supported": 6,
+      "partial": 1,
+      "unsupported": 0,
+      "total": 7,
+      "weighted_score": 0.9285714285714286,
+      "strict_score": 0.8571428571428571
+    },
+    "10": {
+      "supported": 4,
+      "partial": 1,
+      "unsupported": 0,
+      "total": 5,
+      "weighted_score": 0.9,
+      "strict_score": 0.8
+    },
+    "11": {
+      "supported": 4,
+      "partial": 0,
+      "unsupported": 0,
+      "total": 4,
+      "weighted_score": 1.0,
+      "strict_score": 1.0
+    },
+    "12": {
+      "supported": 7,
+      "partial": 1,
+      "unsupported": 0,
+      "total": 8,
+      "weighted_score": 0.9375,
+      "strict_score": 0.875
+    },
+    "13": {
+      "supported": 2,
+      "partial": 0,
+      "unsupported": 0,
+      "total": 2,
+      "weighted_score": 1.0,
+      "strict_score": 1.0
+    },
+    "14": {
+      "supported": 5,
+      "partial": 0,
+      "unsupported": 0,
+      "total": 5,
+      "weighted_score": 1.0,
+      "strict_score": 1.0
+    },
+    "15": {
+      "supported": 3,
+      "partial": 0,
+      "unsupported": 0,
+      "total": 3,
+      "weighted_score": 1.0,
+      "strict_score": 1.0
+    },
+    "16": {
+      "supported": 2,
+      "partial": 0,
+      "unsupported": 0,
+      "total": 2,
+      "weighted_score": 1.0,
+      "strict_score": 1.0
+    },
+    "17": {
+      "supported": 7,
+      "partial": 0,
+      "unsupported": 0,
+      "total": 7,
+      "weighted_score": 1.0,
+      "strict_score": 1.0
+    },
+    "18": {
+      "supported": 11,
+      "partial": 0,
+      "unsupported": 0,
+      "total": 11,
+      "weighted_score": 1.0,
+      "strict_score": 1.0
+    },
+    "19": {
+      "supported": 2,
+      "partial": 1,
+      "unsupported": 0,
+      "total": 3,
+      "weighted_score": 0.8333333333333334,
+      "strict_score": 0.6666666666666666
+    }
+  },
+  "aggregate": {
+    "average_weighted_faithfulness": 0.9341791979949875,
+    "average_strict_faithfulness": 0.8683583959899749
+  }
+}
