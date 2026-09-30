@@ -6,8 +6,8 @@ Project 0 is a public biomedical research and clinical-trials intelligence platf
 
 ## Current Status
 
-**Phase 6 — Hybrid retrieval / querying**  
-Project scaffold, virtual environment, and repository hygiene are in place. No application code has been written yet.
+**Phase 9 — Evaluation**  
+Retrieval Answers are being evaluated on the basis of Generation scores by local LLM Ollama Qwen 2.5:3b
 
 ## Roadmap
 
