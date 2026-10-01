@@ -99,7 +99,7 @@ Instructions:
 """
 
         response = ollama.generate(
-            model="model-that-does-not-exist", 
+            model="qwen2.5:3b", 
             prompt=prompt
         )
 
