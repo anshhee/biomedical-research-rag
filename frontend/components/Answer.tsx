@@ -1,5 +1,7 @@
 "use client";
 
+import ReactMarkdown from "react-markdown";
+
 interface AnswerProps {
   answer: string;
 }
@@ -25,7 +27,9 @@ export function Answer({ answer }: AnswerProps) {
       </div>
 
       <div className="answer-card" role="article">
-        <p className="answer-text">{answer}</p>
+        <div className="answer-text answer-markdown">
+          <ReactMarkdown>{answer}</ReactMarkdown>
+        </div>
       </div>
     </section>
   );

@@ -47,5 +47,6 @@ def ask(request: AskRequest):
     return {
         "status": "answered",
         "answer": result["answer"],
+        "model_used": result["model_used"],
         "sources": sources
     }

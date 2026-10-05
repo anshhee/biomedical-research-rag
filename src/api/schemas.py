@@ -19,4 +19,5 @@ class Source(BaseModel):
 class AskResponse(BaseModel):
     answer : str
     status : str
+    model_used : str 
     sources : list[Source]
