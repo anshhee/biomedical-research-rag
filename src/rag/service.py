@@ -77,28 +77,54 @@ gemini_client = genai.Client(
 def retrieve_chunks(
     query: str,
     k: int = 5,
+    document_id: str | None = None,
 ):
-    """Retrieve the top-k chunks for a query."""
+    """Retrieve biomedical chunks or chunks from one uploaded document."""
 
     response = ollama.embeddings(
         model="nomic-embed-text",
         prompt=query,
     )
-
     query_embedding = response["embedding"]
 
-    results = collection.query(
-        query_embeddings=[query_embedding],
-        n_results=k,
-    )
+    query_args = {
+        "query_embeddings": [query_embedding],
+        "n_results": k,
+    }
+
+    if document_id is not None:
+        query_args["where"] = {
+            "document_id": document_id
+        }
+
+    results = collection.query(**query_args)
 
     chunk_ids = results["ids"][0]
+    retrieved_chunks = []
 
-    return [
-        chunk_lookup[chunk_id]
-        for chunk_id in chunk_ids
-    ]
+    for i, chunk_id in enumerate(chunk_ids):
+        if document_id is None:
+            # Existing biomedical corpus
+            chunk = chunk_lookup.get(chunk_id)
+            if chunk is not None:
+                retrieved_chunks.append(chunk)
+        else:
+            # Uploaded PDF: get text and metadata from Chroma
+            metadata = results["metadatas"][0][i] or {}
+            text = results["documents"][0][i] or ""
 
+            retrieved_chunks.append({
+                "doc_id": document_id,
+                "chunk_id": chunk_id,
+                "source": metadata.get(
+                    "source", "uploaded_document"
+                ),
+                "text": text,
+                "page": metadata.get("page"),
+                "section": metadata.get("section"),
+            })
+
+    return retrieved_chunks
 
 # ---------------------------------------------------------
 # Generation with Gemini + Qwen fallback
@@ -173,6 +199,7 @@ def generate_answer(
     query: str,
     k: int = 5,
     model: str = "gemini-3.5-flash",
+    document_id: str | None = None,
 ):
     """
     Retrieve relevant evidence and generate a grounded answer.
@@ -190,6 +217,7 @@ def generate_answer(
         retrieved_chunks = retrieve_chunks(
             query=query,
             k=k,
+            document_id=document_id,
         ) 
 
 
@@ -320,11 +348,23 @@ Do not present findings from other studies, institutions, or trials as findings 
         # -------------------------------------------------
         # 4. Generate answer
         # -------------------------------------------------
-
-        answer, model_used = generate_with_fallback(
-            prompt=prompt,
-            gemini_model=model,
-        )
+        if document_id is not None:
+            try:
+                response =  ollama.generate(
+                    model="qwen3:8b",
+                    prompt=prompt,
+                )
+                answer = response["response"]
+                model_used = "qwen3:8b"
+            except Exception as exc:
+                raise RAGServiceError(
+                    "Qwen model generation failed"
+                    ) from exc 
+        else:
+            answer , model_used = generate_with_fallback(
+                prompt = prompt,
+                gemini_model = model,
+            )
 
 
         # -------------------------------------------------
